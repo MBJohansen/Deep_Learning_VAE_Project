@@ -1,0 +1,720 @@
+PROLOGUE
+
+Important Notes:
+Due to substantial balance changes, every existing character has been granted an optional full passive reset. To use this, click the "Reset all Passives" button on the passive skill screen. Note that you must use this before allocating or refunding any other points otherwise the option will go away.
+Many inactive character names have been made available. If you take the name of an existing character, then that user will be prompted to rename their character when they later try to log in to it. If you have logged onto any character on your account in the last year, then their names cannot be taken. Characters whose names are taken are not lost - their progress and items are still intact. They just need to pick a new name when they log in.
+We recommend you create your first new character in the Warbands (or Tempest) challenge league to experience The Awakening. The entire game experience has changed from the first level onwards.
+
+CHAPTER ONE: EXPANSION CONTENT
+
+Act Four - Highgate:
+The betrayer strives to awaken an ancient and terrible being. Should he succeed, the Cataclysm will see the whole world remade... in the image of Nightmare. The time has finally come to venture into the kingdom of Corruption itself and drive a blade through its black heart.
+
+The Awakening introduces Path of Exile's fourth act, which is set in and around the mining town of Highgate, north of Sarn.
+Act Four contains 14 new areas to explore, 40 new monster varieties to fight, 6 new quests to complete and 9 new bosses to defeat!
+Highgate contains a cast of new NPCs that have full voice acting.
+
+Jewel System:
+Path of Exile: The Awakening introduces an entirely new type of item to collect and craft: Jewels. These socket into the Passive Skill Tree to grant special bonuses to your character or influence areas of the tree itself.
+The Passive Skill Tree has been updated with 21 sockets for Jewels. You must allocate a socket like a regular passive skill before you can put a Jewel into it.
+Jewels can drop as Magic, Rare or Unique.
+Like other Unique items in Path of Exile, Unique Jewels are powerful and build-defining. They offer ways to diversify your areas of specialisation, or to double down on a strategy that is working well for your build.
+Some Unique Jewels interact with passive skills in a radius around them - either changing their properties, triggering when certain thresholds are met or altering the rules of the tree itself.
+A quest in Act Two offers you a different selection of Unique Jewels to choose from in each difficulty level.
+Magic and rare Jewels can be crafted using the same set of Orbs that affect other items in Path of Exile. By rerolling and modifying your Jewels, you're able to essentially create your own Notable Passives, some of which can be substantially more powerful than those offered by the tree itself.
+
+Netcode Improvements:
+Added an option for Deterministic Lockstep as a networking mode. This mode doesn't desync, but there's a short delay (your latency to the server) before you see your actions execute. This mode should be used if you have low latency to the nearest server.
+Lockstep is automatically enabled if you're close enough to one of our servers. You can toggle this in the Options panel.
+We've added new servers in London, Frankfurt, Italy, California and Washington D.C.
+The latency to each server is shown on the login screen to help you select the closest one.
+We have substantially improved the regular Predictive sync mode.
+
+Introducing Divination Cards:
+Divination Cards are a new type of item that drop throughout Wraeclast. Each type of card is specific to different areas. They allow players to systematically work their way to the acquisition of desirable items, without having to rely on random chance alone.
+A full stack of one type of Divination Card can be traded to the Tasuni NPC in Highgate for the specific item referenced on the card.
+All Divination Cards introduced in The Awakening have been designed by Highgate Supporters. There are 49 initial cards in the first release. More will be added over time.
+
+Maraketh Weapons:
+We've introduced 13 new Maraketh Weapon types in three tiers (39 total base types). Act Four isn't set in the Maraketh lands, but the Maraketh people were involved in many historical battles that occurred there.
+Maraketh Weapons have different implicit mods than most of the items in Path of Exile. The implicit mod is the same for the first two tiers, and slightly larger in the third tier.
+While Maraketh Weapons are some of the rarest and most desirable weapons in the game, they don't deal substantially more damage than the highest current base types. However, their new implicit mods make them more appropriate for certain builds.
+All of the Maraketh Weapons have new 3d art and look quite different from existing weapons in Path of Exile.
+At this stage, we do not plan to introduce Unique versions of Maraketh Weapons.
+
+New Unique Items:
+We've added 119 Uniques to Path of Exile:
+4 Unique Items for the Tempest league.
+9 Unique Items for the Warbands league.
+58 Unique Jewels.
+31 Unique Items created by our designers.
+16 Unique Items designed by Supporters.
+1 Unique Strongbox designed by a Supporter.
+
+New Skill Gems:
+Added a new Strength Skill Gem - Abyssal Cry: Performs a warcry, slowing nearby enemies and causing them to explode when killed. The slowing effect is increased by surrounding enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.
+Added a new Strength Skill Gem - Rallying Cry: Performs a warcry, granting increased damage and mana regeneration to you and your allies if there are nearby enemies. The damage increase is scaled by surrounding enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.
+Added a new Intelligence Skill Gem - Summon Chaos Golem: Summons a Chaos Golem that grants you Physical Damage Reduction while active. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
+Added a new Strength/Intelligence Skill Gem - Summon Flame Golem: Summons a Flame Golem that grants you increased Damage while active. The Flame Golem can use a fire spray, a wave of fire damage, and an explosive projectile.
+Added a new Dexterity/Intelligence Skill Gem - Summon Ice Golem: Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy while active. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.
+Added a new Strength/Intelligence Skill Gem - Vigilant Strike: Attacks the enemy with a powerful melee strike. You gain the Fortify buff, granting damage reduction. The cooldown can be bypassed by expending an Endurance Charge. Requires a Melee Weapon.
+Added a new Strength/Intelligence Skill Gem - Ice Crash: Slam the ground with your main hand weapon, damaging enemies in an area around the impact in three stages. Enemies take slightly less damage on the second and third stage. Works with Swords, Maces, Axes, Staves and Unarmed. Cannot be used with Multistrike.
+Added a new Intelligence Skill Gem - Fire Nova Mine: Lay a remote mine that you can detonate to create a series of fire novas. Each sequential nova from the same mine will do higher damage than the previous.
+Added a new Intelligence Skill Gem - Flame Dash: Teleport to a location, damaging enemies and leaving a trail of burning ground in your wake.
+Added a new Dexterity Skill Gem - Phase Run: Gain a buff that makes you faster, harder to detect, and able to pass through enemies. Performing any skill replaces this buff with one that boosts melee attack damage. Consumes Frenzy Charges to increase duration.
+Added a new Dexterity Skill Gem - Frost Blades: Attack with increased range, releasing icy blades from the struck enemy that fly at other enemies. Requires a Melee Weapon.
+Added a new Intelligence Skill Gem - Magma Orb: Lob a fiery orb that explodes as it strikes the ground. The skill chains, releasing another fiery orb that repeats this effect.
+Added a new Dexterity/Strength Skill Gem - Wild Strike: Your melee weapon strikes an enemy, converting some of the damage to a random element. Then, depending on the element chosen, it releases an explosion, an arcing bolt of lightning, or an icy wave.
+Added a new Generic Skill Gem - Detonate Mines: Detonates all the Remote Mines you have placed. This Gem can be triggered.
+
+New Support Gems:
+Added a new Strength Support Gem - Fortify: Supported skills deal additional damage and grant you the defensive Fortify buff when they hit.
+Added a new Strength Support Gem - Bloodlust: Supported skills deal substantially more damage against bleeding enemies, but they can't cause bleeding themselves.
+Added a new Dexterity/Intelligence Support Gem - Trap and Mine Damage: Supported trap and mine skills are slower to use and deal more damage.
+Added a new Dexterity Support Gem - Ice Bite: Supported skills are more likely to freeze enemies and have a large chance to grant a Frenzy Charge when killing a frozen enemy.
+Added a new Dexterity Support Gem - Hypothermia: Supported skills deal additional damage against chilled enemies and are more likely to freeze chilled enemies.
+Added a new Intelligence Support Gem - Innervate: Supported skills have additional chance to shock and grant Onslaught when you kill a shocked enemy.
+
+New Challenge Leagues:
+Challenge leagues are a great opportunity for a fresh start in a new economy. All your old characters and items are still present in the Standard and Hardcore leagues, but you're encouraged to join the new leagues, complete challenges and climb the ladder!
+Warbands is the upcoming Standard Challenge League. In the Warbands league, warring clans have spread throughout Wraeclast. These warbands are tight-knit groups of enemies who cooperate and use synergistic skills to take you down. At higher levels, elite and leader enemies are present, who direct their Warband in combat and can take matters into their own hands if the tide of battle turns against them. Each of the three Warbands have exclusive Unique Items that only drop from them. The presence of the warbands in Wraeclast fluctuates over time and responds to the Exiles' efforts to hunt them.
+There are currently three unique shields, three unique rings, three unique boots and three exclusive magic mods that can drop from high Warbands members. Over time, this pool of items will expand as the Warbands continue to assert their dominance.
+Tempest is the upcoming Hardcore Challenge League, in which Wraeclast is affected by magical Tempests. These can cause a variety of effects that influence both monsters and players, such as changing their sizes, causing damage, altering drop rates or even automatically animating weapons that drop. With careful positioning you can deny monsters from getting positive buffs or lead them into negative ones. When a Tempest affects an area, it does so for everyone in that league for an hour. You can look at the world map to see which Tempest affects each area at the moment. Some of the rarer Tempests grant significant item finding benefits, so are worth keeping a lookout for.
+The new challenge leagues include a set of eight new challenges. As you complete the challenges, you receive pieces of a Warbands/Tempest Totem Pole decoration that can be displayed in your hideout. The Totem Pole permanently displays how many of the Warbands/Tempest challenges you completed during these leagues.
+The eight new challenges are titled: Reach Level 82, Redeem Divination Card Sets, Kill these Warband Members, Clear Areas with Tempests, Kill these Unique Bosses, Items from Vendor Recipes, Corrupt these Unique Jewels, and Knowledge and Power.
+The first 50 players to complete all eight challenges will receive an exclusive Warbands/Tempest challenge shirt.
+Out of the 119 total Unique items added in this update, there are nine new Unique items that can only drop in in the Warbands challenge league and four that can only drop in the Tempest challenge league.
+
+CHAPTER TWO: NEW FEATURES AND ADDITIONAL CONTENT
+
+New Microtransactions:
+Added a new Back Attachment: Raven Wings
+Added a new Armour Set: Demon King
+Added a new Hideout Decoration: Infernal Throne
+Added a new Helmet Skin: Face Parasite
+Added a new Weapon Skin: Steam-powered Wand
+Added three new Pets: Rock Elemental, Blood Worm and Firefly Swarm
+
+New Features:
+We've added Item Filter functionality. You can now filter what types of items you want to see, cause sounds to play, change the font colour, size, and other options. For more information about item filters, check out www.pathofexile.com/itemfilters
+Changed the game camera position. There's a little more gameplay area visible below the character now.
+Added an option to display an in-game clock.
+You can now change the window size and font size of the chat window.
+NPC and player names are now shown on the overlay map and minimap.
+Party leaders are now shown in blue on the overlay map and minimap.
+The game HUD has been updated to the KaruiStone theme used throughout The Awakening.
+When you're listening to a Lore Object in the world, you can walk away and the lore audio will continue to play in the background while you explore.
+The life and mana orbs now indicate where the current level of regeneration will fill them up to.
+You can now enable life and mana bars on top of your character.
+Hovering over the experience bar now shows an estimate of how much experience you're gaining per hour based on recent play.
+You can now type /afk <message> to set a message that is automatically sent to people who contact you.
+You can now type /dnd <message> to set a message that is automatically sent to people who contact you while in dnd mode. In this mode, you're not shown messages you receive.
+You can now bind a different key (other than the one used to show item hovers) to be used for Key Pickup.
+Item level is now included when pressing alt while you hover over an item.
+The latency/performance graphs shown when you press F1 have been improved and repositioned. You can now toggle to showing just a small latency graph.
+Added an option for disabling the Twitch enter-channel messages.
+The gateway you're connected to is now shown on the minimap screen, alongside other information about the instance like its map mods. This is useful if you're playing with a friend overseas.
+Effects used in boss fights are now loaded at the loading screen of the appropriate level, rather than when you load the game.
+Names of your pets are now shown in your hideout when you're in edit mode, so that they're easier to find if they hide under logs.
+The camera is now smoothly interpolated between positions while using Flicker Strike or changing who you are spectating in a PvP match.
+When someone travels to your hideout, it now creates the instance on the gateway you're logged in to.
+In chat you can now press Tab as well as Enter to complete partial whisper names.
+
+New Map Content:
+As we raise the level of content in The Awakening, we're introducing a new range of maps, and readjusting map area levels to better suit the level we expect most players to start mapping. To coincide with this, we felt we should take a look at the pool of map mods that can typically roll, and take this opportunity to allow for a smoother entry into mapping, as well as a more interesting and challenging pool of mods for high-end maps.
+
+We have introduced a new series of maps. You can recognise these by their volcanic KaruiStone art rather than the old grey tablets.
+The new maps range in level from 68-82.
+Many maps have changed where they fit in the map progression. There are more maps at higher tiers than before.
+12 new maps (with accompanying boss fights) have been added.
+Maps in the new progression have a reworked system of map mods.
+Item Rarity and Pack Size now appear alongside Item Quantity as benefits that are granted for increasing the difficulty of maps by crafting mods onto them.
+Map mods on lower-tier maps are generally easier than map mods in previous expansions. Mid-tier and high-tier maps introduce higher values, more challenging mods and scarier combinations of mods that previously weren't allowed to coexist.
+Maps from the old progression no longer drop. They can be played to find maps from the new progression.
+Old maps have their old art and mods. Crafting them yields mods from the old progression.
+
+Changes to World Areas:
+With the introduction of Act Four, the previous three acts were revamped to provide a more streamlined experience.
+
+The Lower and Upper Submerged Passages have been combined.
+The Waypoint in the Mud Flats has been moved to The Coast.
+The Waypoint in The Lower Prison has been moved to be near the start of the level.
+The Coves area has been removed.
+The Chamber of Sins Level 2 has been replaced by the Chamber of Sins Level 3. Its Waypoint is now at the start of the new Chamber of Sins Level 2.
+Plagueretch has moved out of Chamber of Sins Level 1 and has been replaced by Black Death. We wish Plagueretch all the best on wherever his new journey takes him.
+The Wetlands area has been moved prior to the Vaal Ruins. They now connect to The Riverways. You can now find Oak without having killed Loretta (the tree).
+A Waypoint has been added to The Riverways.
+The Dark Forest has been removed.
+The Vaal Ruins Level 1 and Vaal Ruins Level 2 have been merged. Its waypoint has been removed.
+A new area, the Northern Forest, has been added after the Vaal Ruins.
+The Dread Thicket is now attached to the Northern Forest rather than the Wetlands. The Dread Thicket is now always 50%.
+The Caverns Level 1 and The Caverns Level 2 have been merged.
+Clarissa has been moved into the City of Sarn (from the Slums).
+The Slums no longer attaches to The Warehouse District.
+You can no longer access The Warehouse District or beyond without opening the Sewers (by finding Tolman and freeing Clarissa).
+The Sewer Waterway has been removed.
+The Marketplace Sewers now has two entrances in the Marketplace.
+The Marketplace waypoint has been moved.
+The Ebony Barracks waypoint has been moved.
+Lunaris Temple Level 1 and Lunaris Temple Level 2 have been merged. The waypoint is now in this merged area.
+Piety's boss arena in Lunaris Temple Level 2 has been changed.
+
+Revamped Skill Gems:
+In addition to the 20 new Gems introduced in The Awakening, several older skills and supports have been revamped. These new versions replace the old ones, providing a better experience for players who rely on them.
+
+All attack skills now gain a multiplicative damage increase per Gem level, which replaces the additive increase they had previously.
+Shock nova now follows up the ring of Lightning around you with a larger Lightning nova. Enemies can be damaged by both.
+Punishment now causes cursed enemies to grant a buff to anyone they hit with melee attacks. The buff grants more Melee Damage and increased Attack Speed. It no longer reflects damage.
+Arctic Armour now chills enemies when they hit you. It causes you to drop chilled ground only while moving and take a percentage less Fire and Physical damage while stationary. It will reserve mana instead of draining mana and no longer reduces damage taken by a flat amount.
+Tempest Shield now deals arcing beams of damage to attackers when you block. This damage chains between enemies. It now has a mana cost and a duration instead of a reservation cost. Blocking refreshes the skill's duration. Due to these changes, it no longer persists between areas.
+Blood Rage now deals physical damage over time rather than chaos, and grants increased attack speed and life leech for the duration of the buff regardless of the state of the player's life. The leech values are now in line with the game-wide rebalance of leech. It now also drains a percentage of physical damage based on Energy Shield, on top of life. It now only has a 25% chance to generate a Frenzy Charge on kill.
+Enduring Cry is now a warcry rather than a spell. It now grants some life regeneration on use and grants 3% increased Area of Effect per 1% quality (was 1% per 1% quality).
+Frost Wall now has a cooldown that can be bypassed by consuming Power charges. Its damage, duration, and wall length have all been greatly modified.
+Enlighten now reduces its mana multiplier each level. It no longer grants increased experience for linked gems. It instead serves to lower mana costs and reservation.
+Reduced Mana no longer reduces reservation costs of supported gems. It now only lowers the casting cost of skills.
+
+Additional Content:
+When you complete a quest, gems from that quest plus some others are added to a new tab on the Jewellery vendor in town for you to purchase cheaply. These gems sometimes come with experience if they're lower level than you are.
+Introduced the Fortify buff, which is granted by the Fortify Support Gem and Vigilant Strike. This buff is designed to protect melee characters and grants 20% reduced damage taken from hits for a few seconds.
+We've added 18 new achievements.
+New 3D art has been added to the following Uniques: Alternate Art Taryn's Shiver, Blood Thorn, Bino's Kitchen Knife, Alternate Art Bino's Kitchen Knife and Hegemony's Era.
+The Nightmare tier of weapons have all had their 2D and 3D art replaced.
+New types of chests have been added to the first three acts.
+A Gemling Legionnaire monster pack has been added to the Warehouse District in Act Three.
+Added a new Unique boss to the church in the Fellshrine Ruins.
+The voice acting of existing character classes has been improved. In some cases this involved very large changes!
+Large Skeletons now have their own model and animations, as opposed to being upsized variants of normal skeletons. They now attack slower, but hit harder than normal skeletons.
+More lore objects with voice acting have been added throughout Wraeclast.
+A swarm of parasites have infected some very large crustaceans and found their way to the coast of Wraeclast in Act One.
+We've added new puncture animations for all player characters.
+Continued to incrementally improve the sound, art, effects and environments.
+
+Achievement Changes:
+As well as adding new achievements, we have updated and revamped several existing ones.
+
+The achievements "All Ears", "No Loose Ends", "No Stone Unturned", and "Locomancer" have been expanded and revamped. They now incorporate Act 4 content, as well some of the new content added to previous Acts.
+Players who have completed any of these achievements before this update will keep them, even though they haven't done the new content required for them. We may expand these achievements again later, but no-one will ever lose an achievement once they have earned it, now or in the future.
+All of these achievements now show your current character's progress towards them, instead of your account's best progress. Once you have completed them, they are simply marked as complete, no matter what character you are playing.
+"Locomancer" now includes the Act 4 waypoints.
+"All Ears" now includes Act 4 NPC dialogue and is broken up by Act.
+"No Loose Ends" now includes the Act 4 sidequest and is broken up by Difficulty.
+"No Stone Unturned" is now broken up by act. Many new pieces of environmental lore are included, such as the Vaal Letters found in corrupted areas, as well as content in Act 4 and earlier acts.
+For achievements broken up by Act or Difficulty, the progress of each is tracked individually, to make it easier to follow your progress. This also means that these achievements are no longer required to be done on a single character, though each individual Act or Difficulty must be.
+
+Content from the Torment/Bloodlines Challenge Leagues:
+Tormented Spirits have been added to the core game.
+Bloodlines Mods have been added to the core game.
+The Bloodlines Mod Phylacteral Link is no longer used as a Bloodlines Mod but the mechanic may be reused in other places.
+The Bloodlines Mod Cult of the Elements has been removed.
+The Bloodlines Mod Otherworldly has had its duration reduced and now has less damage reduction.
+The Bloodlines Mods Voidspawn of Abaxoth, Congealed Blood and Bearers of the Guardian now spawn less frequently.
+The elementals spawned by the Living Blood Bloodlines Mod have been rebalanced.
+The Bloodlines Mod Necrovigil now appears later than before and has had its radius reduced.
+One of the variations of the Bloodlines Mod Heralds of the Obelisk has been removed.
+The Torment spirit Tormented Martyr has been made significantly less dangerous.
+None of the Unique Items from Torment or Bloodlines drop in the core game. Zana mods can help you find these.
+
+CHAPTER THREE: GAME BALANCE
+
+General Balance:
+The invulnerability grace period when loading into an area has been increased to 30 seconds.
+In addition to being unable to die, traps now cannot be damaged at all until they arm.
+Damage reflection mods on rare monsters are no longer auras. There are now two new monster mods that reflect physical and elemental damage respectively. They have new effects that are much more visible. A Bloodlines mod has been added for pack-based reflection on magic monsters.
+Warcries are now a category of skill containing the existing Enduring Cry and the new Abyssal/Rallying Cries. Warcries have a shared cooldown.
+Projectile skills no longer "shotgun". You can't hit the same target with more than one simultaneously-created projectile from the same source any more. They've been rebalanced around this.
+The life of Totems cast by players has been increased in all cases.
+Totem placement can now be sped up with a new Totem Placement Speed stat. Cast speed no longer places totems more quickly. Base totem placement speed is faster than the cast speed used to be.
+The delay on Energy Shield recovery has been shortened. The rate at which Energy Shield recovers has been slowed.
+Eldritch Battery now causes Energy Shield to protect Mana instead of Life.
+Armour now protects you more than it did before (approximately 18% more protection).
+Frenzy Charges now grant 4% Increased Attack Speed and Cast Speed. They also grant 4% more Damage.
+Previously, the most that experience could be penalised to was 2% of the monster's normal experience. This value has been reduced to 1%. This is to encourage players to run content appropriate for their high level.
+Missions now award slightly less reputation and favour. This change is larger for higher-level missions. The 1.3.0 patch made master levelling too easy.
+Leech on weapons is now local (it doesn't affect your other weapon).
+Barrels now deal damage when they explode.
+Side content and content introduced in previous leagues is now introduced at a staggered rate (and at lower rates early on). The intent here is to avoid overwhelming newer players with too many mechanics too quickly.
+Fire Shrines, Static Shrines and Hexing Shrines will no longer spawn.
+Shrine effects now last 45 seconds.
+Many shrine effects have also been rebalanced.
+
+Quest Rewards:
+Due to the rebalancing of the levels of all Skill and Support Gems, quest rewards throughout Path of Exile have been adjusted.
+
+Skill Gems are now only offered as quest rewards in Normal difficulty. The skills offered at each reward have been consolidated and skills are no longer offered multiple times. These gems and others appear in gem vendors so that they're available later on if you need them.
+Support Gems are now only offered in Normal and Cruel. They are now available when you enter the Lower Prison, rather than at the Caverns before Merveil.
+Multiple rare items have been added to the quest rewards over all three difficulties. (Including rare Jewels in later difficulties)
+Normal Items with four linked sockets have been added to quest rewards in Merciless.
+Special Unique Jewels have been added to the quest rewards in all difficulties (from the Golden Hand Quest).
+The Bandit Rewards have been adjusted, these now grant: Normal Kraityn: 10% to Elemental Resistances. Normal Alira: 60 to Maximum Mana. Cruel Oak: 16% increased Physical Damage. Cruel Alira: 5% increased Cast Speed
+Any quests which now give maps have been adjusted to give the new version of those maps.
+
+Changes to Leech:
+We love life leech mechanics. The idea of turning an offensive attack into a defensive form of survivability, by absorbing some measure of that damage as life, is both thematically interesting and adds depth to character and gear choices.
+
+But leech has always posed some balance problems, especially against bosses, where often minimal investment resulted in equally strong recovery as it did against large packs of monsters.
+
+We made these changes with the goal of keeping leech an impactful mechanic when you need it most -- when you're getting swarmed -- and to reward players who want to invest deeply to make it work against smaller numbers of targets too.
+
+Multiple leech effects now stack. A single hit against multiple targets grants multiple effects, as do multiple hits against a single target.
+The speed at which you leech has been substantially reduced for both life and mana, with less of a reduction to mana leech rate, bringing it in-line with life leech rate. These now default to 2% of maximum life per second. It can be increased.
+A maximum leech rate caps the rate at which you can leech. It's set to 20% of maximum life or mana per second.
+Methods of improving leech, leech rate and increasing your maximum leech rate have been added to new clusters in the passive skill tree, primarily in the regions between the Marauder, Duelist and Ranger.
+Some of the already existing clusters in this region that specialized in specific weapon types have also had leech elements added to them.
+All existing values of leech have been substantially reduced, including values on existing items.
+Vaal Pact now no longer reduces the amount of life leeched. It has also been moved to between the Shadow and Ranger on the passive skill tree.
+Some things such as Support Gems and Warlord's Mark have had their values brought in line with the other leech changes.
+Previously, we had modifiers for "increased (or reduced) Life/Mana Leech rate". These did two things: They increased the amount of Life/Mana you're gaining per second for each leech effect and they reduced the duration of each leech effect, such that the total life/mana gained over the duration remained the same. All such modifiers have now been changed to "increased (or reduced) Life/Mana Leeched per second". This still increases the value of Life/Mana you're gaining per second for each leech effect, exactly as it did before. It no longer affects duration of the leech effects, meaning you'll gain more total life/mana from each one as a result.
+Atziri's Acuity no longer applies a penalty to leech.
+
+Elemental Status Ailment Rebalance
+To provide incentive for players to invest in a particular type of elemental damage or specific status ailment, we have modified the durations for freeze, shock and chill.
+
+Freeze, Shock and Chill now last for 60ms for every 1% of life dealt by the appropriate element, up to a maximum of 50%.
+When frozen, you are also chilled for the freeze duration + 300ms. Previously this value was 30% of the freeze duration, but that was sometimes too short or too long.
+
+Passive Tree and Keystone Balance:
+The general layout and pathing of the entire tree has been tweaked to accommodate the new Jewel system.
+21 Jewel Sockets have been added to the passive tree.
+The Scion dual-attribute nodes have been replaced by Jewel nodes. The starting Scion nodes now have +5 to an attribute to compensate.
+No passives grant Increased Buff Effect anymore.
+The Duelist and Marauder parts of the tree have been significantly reworked.
+Passives that affect totems have been reworked.
+Burn duration and ignite chance values have been reduced across the tree. Burning damage values have also been lowered.
+Energy Shield Recovery passives have been reworked to better suit the new state of Energy Shield.
+Ondar's Guile has been renamed Arrow Dancing and now grants 40% more chance to evade projectile attacks but 20% less chance to evade melee attacks.
+There are very powerful Increased Life nodes behind Blood Magic now, since more blood equates to more magic.
+Eldritch Battery no longer converts your Energy Shield to Mana. Instead, your Energy Shield now protects your mana (it will regenerate after a period just as before, and will not be affected by anything that specifically affects mana).
+Many clusters have been reviewed and had minor changes made.
+Added several new clusters of passives, including clusters for Fortify and Leech.
+
+Monster Balance:
+Monster life and damage have been increased at all levels. Path of Exile has been made more challenging in general. Additionally, the power curve of monsters has been readjusted because players receive more tools to enhance their builds early in the game.
+Minions and Totems have had their life and damage readjusted in line with monster life and damage.
+Monster skills have had a full balance pass, with most having some level of damage change.
+Monsters are now less inclined to attack minions when there are players nearby to target.
+Monsters stick to their packs more while walking around and don't spread out so thinly.
+Some monsters like Devourers can no longer spawn from Strongboxes.
+Map bosses have been rebalanced. They now have extra life and item drops.
+The Shore and Dry Peninsula map bosses now use more skills.
+Rather than always fleeing, Humanoids and Blood Chieftains now flee if they are ignited while on low life.
+Rather than always fleeing, Monkeys and Drop Bears now flee when they have been ignited with an ignite dealing more than 10% of their maximum life per second.
+Monsters that cast curses which lower player resistances should now do so less frequently. The curses now lower resistances less in Normal and Cruel difficulties.
+Rogue Exiles no longer reduce the effect of player curses cast on them.
+Map bosses, meanwhile, reduce the effect of player curses cast on them even more than before.
+Many bosses with certain projectile skill variants (such as Barrage or spiral skills) now deal less damage with those projectiles at close range, and are now less likely to use those skills at close range in general.
+Caliga, Imperatrix should now be more visible in The Scepter of God. Her rate of laying traps has been reduced.
+Devourers now do less damage when ambushing you.
+Devourers and Plummeting Ursae now spawn with some of their group submerged and some emerged. This change was done to prevent the large amount of burst damage they could deal, causing unfair deaths regularly.
+Many monster lightning skills now have less damage variance.
+Many Rogue Exiles have been rebalanced.
+Shrapnel Bearer's damage has been toned down.
+Soul Conduit no longer appears on monsters which have their corpses deleted on death.
+
+Map Balance:
+While rebalancing maps around the other changes in The Awakening and the new series of maps with improved mods, we set out a few specific goals:
+
+We want people to try to kill the map boss(es).
+We want people to find it straightforward to get out of lower maps. It's important that players feel progress and a sense of mastery as they learn to roll maps properly and improve their characters.
+We want it to be hard to maintain the top maps. They are content for elite players and their rarity reflects it.
+We want top maps to be a challenge for even the best players. Top maps with difficult mods are the hardest content in Path of Exile and should be goals for our most skilled players.
+For the end of Merciless Act Four to approach the challenge and reward of mid-tier maps.
+Please see the "New Map Content" section above for information on the 12 new maps, new map progression and new map mod system in The Awakening.
+The relative chances of finding maps within maps have been adjusted. There are now three bands of maps that have different difficulties to ascend. The lowest tier maps (68-73) yield higher maps relatively easily. The mid-tier maps (74-78) require more effort to get high maps from. You need to roll high quantity, pack size, and take risks to maximise your map yield. The highest tier maps (79-82) are unforgiving and not designed to be sustained constantly. Substantial skill and planning is required to experience this content.
+To accommodate the growing skill and knowledge of Path of Exile's best players, content in the highest-tier maps has been made more challenging.
+Map bosses have also been increased in difficulty, but drop more items than before. Each map boss also has a flat 20% chance to drop an additional map. This does not apply multiple times for maps that have multiple bosses, nor does it double up when a map boss is twinned.
+Map bosses are the only way to get a map that is two levels above the area you're in.
+Magic and rare monsters can drop maps that are one level above the area you're in.
+Bonus unique monsters (such as Rogue Exiles) can not drop maps.
+As the sweeping balance changes have had an impact on existing Grandmasters, The Hall of Grandmasters map will only have one wing as we check and modify the state of each grandmaster where needed.
+Corrupting a map to a higher tier now selects the resulting map at random.
+Plummeting Ursae now spawn in maps. Sometimes above maps.
+Devourers and Plummeting Ursae now spawn in smaller, less lethal packs in maps.
+The Dried Lake map has been renamed the Arid Lake.
+
+Strongbox Balance:
+The chance of finding a strongbox has been decreased.
+The chance of a finding a unique strongbox has been greatly increased.
+Chemist's Strongboxes can no longer spawn.
+Quantity Mod Bonuses on Strongboxes are now 30-40% (down from 50-60%)
+The Additional Magic Items mod on Cartographer's Strongboxes is now always 1 (instead of 1-2).
+The Additional Normal Items mod on Cartographer's Strongboxes is now 1-2 (instead of 2-3).
+Cartographer's Strongboxes can no longer mirror items.
+Cartographer's Strongboxes have become less frequent as you progress up the map tiers. They have not been added to the new level 80+ maps.
+
+Item Balance:
+The overall drop rate of Unique Items has been increased.
+Eternal Orbs no longer drop in any league.
+Low-level items are now more likely to have on-colour sockets.
+Lower level items now have more sockets and more linked sockets.
+
+Base Weapon Type Rebalance:
+To broaden the number of choices players have when choosing their weapon, we have flattened out attack speeds across all weapon types. In general, the slowest weapons are now faster, and the fastest weapons are now slower than they were before. We have also increased the chance to critically strike for some weapon types, which should allow for critical strike builds on more than just a handful of weapons.
+
+Weapons with the lowest and highest attack speeds have been moved closer to the median.
+Critical strike chance has been reworked on all weapons. It is no longer coupled with Intelligence requirements as tightly as it was. Most weapon types now have a higher critical strike chance option in their sequence.
+Two-handed melee weapons have generally been reduced in damage relative to one-handed equivalents in the early to mid-game.
+Damage on wands has been increased in general.
+Claws have had many of their Leech implicit mods changed to Life Gain on Hit.
+The Maraketh Bow has been renamed to Assassin Bow.
+
+Life and Mana Flask Rebalance
+Mana flasks now consume fewer charges per use and restore less mana per use. Players needed more control over how and when they restored mana (and how often they gained the benefits of flask effects). Giving mana flasks more uses gives players more control.
+Life flasks now restore more life.
+Flasks have had their level requirements adjusted. Life and mana flasks can generally be equipped earlier.
+Hailrake will now always drops a life or mana flask.
+
+Existing Unique Item Rebalance:
+As well as adding more uniques at a single time than we've ever done before, in preparation for the launch of The Awakening, our design team has gone through every unique in the game. They've taken a careful look at where each one stands among other items and whether it properly fulfils its role.
+
+In a game that has grown as much as Path of Exile has over the past few years, it's expected that not every item holds up as well as it once did. Where we found that to be true, we made changes. Please note that, unless otherwise stated, these changes will only occur upon using a Divine Orb on an existing item, or upon picking up a new one in The Awakening.
+
+In addition to mod and value changes, many uniques have had their drop levels and relative rarities changed to better fit their power level or position in the game.
+
+Kaom's Sign: Removed Life Leech from Physical Attacks Mod. Added Life Gained on Hit Mod. Divine Orbs cannot be used to acquire these changes.
+Silverbranch: Increased Local Physical Damage Mod increased to 80-100%.
+Ephemeral Edge: Increased Local Physical Damage Mod increased to 150%.
+Malachai's Simula: No longer increases the cost of skills.
+The Searing Touch: Now appears on the Lathi Base Type, making this much higher level.
+Hyrri's Ire: No longer grants the Acrobatics Keystone. Added a new Mod for Dodge Chance at 10%. Added a new Mod for Spell Dodge Chance at 10%. Divine Orbs cannot be used to acquire these changes.
+Hrimnor's Resolve: Fire Damage Mod increased to 30-40%. Armour Mod increased to 100-120%.
+Shavronne's Pace: Intelligence Mod increased to 20-30. Energy Shield Mod increased to 100-140%.
+Meginord's Girdle: Physical Damage Mod reduced to 5-15 Added Physical Damage.
+Ambu's Charge: Armour and Energy Shield Mod increased to 180-220%. All Resistances Mod increased to 15%.
+Rime Gaze: Cold Damage Mod increased to 30%.
+Moonsorrow: Increased Local Physical Damage Mod increased to 175%.
+Prism Guardian: Now grants +2 to the Level of Aura Gems Socketed in this Item.
+Springleaf: Reduced the Life Regeneration on Low Life to 5%. Added a new Mod for 1% Life Regeneration. Divine Orbs cannot be used to acquire this change.
+Sin Trek: Energy Shield Mod increased to 70-100.
+Darkscorn: Added Physical Damage Mod increased to 10-15 to 15-20.
+Taryn's Shiver: Spell Damage Mod increased to 50-60%.
+The Supreme Truth: Increased Experience Gain Mod reduced to 3%.
+The Covenant: Energy Shield Mod increased to 280-320%.
+Atziri's Mirror: Added a new Mod for 50% Reduced Curse Duration on You. Divine Orbs cannot be used to acquire this change.
+Storm Cloud: Increased Local Added Lightning Damage Mod to 1-85.
+Chernobog's Pillar: Enfeeble on Hit Mod increased to 10% chance. Added a new Mod for 10-25 Added Fire Damage. Divine Orbs cannot be used to acquire the new mod.
+Nycta's Lantern: Added a new Mod for 150-200% Increased Local Physical Damage. Divine Orbs cannot be used to acquire this change.
+Bronn's Lithe: Added a new Mod for 35-50% Increased Damage with Movement Skills. Divine Orbs cannot be used to acquire this change.
+Icetomb: Strength Mod increased to 30-40. Intelligence Mod increased to 30-40.
+Al Dhih: Increased Local Physical Damage Mod increased to 100-120%.
+Lightbane Raiment: Physical to Chaos conversion Mod increased to 30%.
+Kongor's Undying Rage: Added Local Physical Damage Mod increased to 56-400.
+Perandus Signet: Increased Experience Gained Mod reduced to 2%. Increased Intelligence per Unique Equipped Mod reduced to 2%.
+Windripper: Increased Rarity Mod reduced to 30%. Increased Quantity Mod reduced to 15%. Increased Local Critical Strike Chance Mod reduced to 60-80%.
+Death's Oath: The Debuff applied upon killing an enemy now only lasts 3 seconds.
+Wings of Entropy: Increased Local Physical Damage Mod increased to 100-120%.
+Dusktoe: Now appears on a higher base type Tier (Ironscale Boots). Divine Orbs cannot be used to acquire this change.
+Doedre's Elixir: Increased Flask Charges used increased to compensate for base Mana Flask Charges changing - it now consumes 120-150% increased Flask Charges.
+Briskwrap: Increased Dexterity Percentage increased to 15%.
+Cybil's Paw: Increased Spell Damage per 5% Block increased to 8% per 5% Block.
+The Screaming Eagle: Local Added Physical Damage Mod increased - it's now 10-15 to 25-30.
+Dying Breath: The radius of the Auras has been increased to 75, to be the same as Leer Cast.
+Blackgleam: Physical Converted to Fire Mod is now always 50%.
+Doomfletch: Added a new mod for Added Local Physical Damage at 8-12 to 16-20.
+Hyaon's Fury: Local Added Lightning Damage Mod increased to 1 to 550-650.
+Sibyl's Lament: Reduced Rarity Mod increased to -20% to -10% Item Rarity.
+Jaws of Agony: Power Charge on Trap Throw Chance increased to 25%.
+Mark of the Doubting Knight: Increased Local Physical Damage Mod increased to 210-240%.
+Dreamfeather: Added Local Physical Damage Mod increased - it's now 20-40 to 55-70.
+Cherrubim's Maleficence: Life Leech Rate Mod increased to 100%.
+Marylene's Fallacy: Non-Critical Strike Damage increased to 40%. Less Critical Strike Chance increased to 40%.
+Nomic's Storm: Physical Damage Taken Mod is now 20%.
+Mjölner: Chance to cast socketed lightning skills reduced to 30%.
+Atziri's Acuity: Now has no leech penalty. This change affects all copies of this item.
+Infernal Mantle: Now drops on the Widowsilk Robe base-type.
+
+Item Mod Balance:
+The Increased Physical Damage mods on weapons have been rebalanced and many have new ranges. The first mod (Heavy) is more impactful early on. A high-level mod (Merciless) has been added.
+The increased physical damage of the hybrid Increased Physical Damage/Accuracy mods has been generally reduced. A high-level mod (Dictator's) has been added.
+Life mods have had their sequence extended at both ends. The old level 1 mod (Healthy) has been moved to level 5. A new level 1 mod (Hale) has been added, as has the high-level Rapturous mod.
+Most Local Added Elemental Damage mods on weapons have been increased.
+Added Spell Damage Mods can now spawn on some weapons. They add flat elemental damage of certain elements to your spells.
+The new item levels required for Life Leech Mods are: Remora's: 50, Lamprey's: 60, Vampire's: 70.
+The new item levels required for Mana Leech Mods are: Thirsty: 50, Parched: 70.
+Corruption mods for Elemental Life Leech on amulets now require item level 50.
+We've added some new mods. Their names, values and required item levels are:
+of the Gods: 51 to 55 Strength (item level 82)
+of the Wind: 51 to 55 Dexterity (82)
+of the Genius: 51 to 55 Intelligence (82)
+Rapturous: 110 to 119 Life (81) (Also, shields and amulets can roll higher life mods now)
+Zaffre: 67 to 73 Mana (81)
+Dictator's: 75% to 79% Physical Damage and 135 to 169 Accuracy (83)
+Merciless: 170% to 179% Physical Damage (83)
+Impregnable: 121% to 132% Energy Shield (84)
+Unassailable: 121% to 132% Armour (84)
+Mirage's: 121% to 132% Evasion (84)
+Legend's: 121% to 132% Armour and Evasion (84)
+Inspired: 121% to 132% Armour and Energy Shield (84)
+Illusory: 121% to 132% Evasion and Energy Shield (84)
+Vaporous: 151 to 170 Evasion (84) (for rings)
+Encased: 401 to 460 Armour (83) (for belts)
+Dazzling: 48 to 51 Energy Shield (80) (amulets and belts only)
+Runic: Spell Damage (84)
+Lich's: Spell Damage and Mana (80)
+Overpowering: 37% to 42% Weapon Elemental Damage (81)
+Perandus': 25% to 28% Item Rarity (84) (rings and amulets only)
+Malicious: Local Added Chaos Damage (83)
+of Finesse: 23% to 25% Cast Speed (83) (weapons only)
+of Tzteosh: 46% to 48% Fire Resist (84)
+of Haast: 46% to 48% Cold Resist (84)
+of Ephij: 46% to 48% Lightning Resist (84)
+of Bameth: 31% to 35% Chaos Resist (81)
+of the Gale: 42% to 46% Projectile Speed (82)
+of the Assassin: 321 to 360 Accuracy (80) (bows and wands)
+of Renown: 14% to 16% Attack Speed (30) (extended to bows and wands)
+The lowest tier of Increased Critical Strike Chance for Spells has had its values decreased by 1% on both ends of the range to avoid overlap with the next tier up.
+
+Master-crafted Mods:
+Many of the lower-tier Master-crafted mods have been made more affordable.
+Many of the highest-tier Master-crafted mods have been made more expensive.
+Added Increased Spell Damage as a crafting option for daggers at Catarina.
+Added new mods for Increased Spell Damage for Staves at Catarina
+Haku's All Attributes mod for gloves now requires a higher master level.
+Master mods are now consistent with the changes to other mods (such as leech).
+Catarina can now craft Added Damage for Spells on a range of weapons.
+Crafting meta-mods that were priced in Eternal Orbs have been re-priced.
+Zana's Onslaught map device mod now requires that she is level 4.
+You can now try Bloodlines and Torment through Zana's map device once she has reached levels 2 and 5 respectively.
+
+Skill and Support Gem Rebalance:
+We have reviewed every Skill and Support gem in preparation for The Awakening and made sweeping changes to the levels and stats of many skills. The goal was to provide a smoother levelling experience for new players and to ensure that Skill and Support Gem options made sense at the levels they became available.
+
+The majority of skill and support gems have had their level requirements changed. Be sure to check skills on old characters before you head into combat!
+We've also reviewed and normalised the damage effectiveness of all spells. There should no longer be massive differences in the amounts of real damage that added damage modifiers and gems grant to spells.
+Player-friendly auras no longer check line of sight. Minions and allies behind pillars will now get the full benefit of you auras.
+All trap and mine skills have had their trap and mine duration reduced to 16 seconds. This includes the support gems Trap and Remote Mine.
+All totem skills have had their totem duration reduced to 8 seconds. This includes the support gems Spell Totem and Ranged Attack Totem.
+Base Totem Placement Speed has been increased from a placement time of 800ms to 600ms.
+The costs on all aura skills with reservation costs has been reduced. The Herald skills remain at 25% mana reservation.
+The cooldowns on all aura skills with reservation costs and Heralds has been increased to match their base cast time.
+Animate Guardian: The Guardian's base survivability has been increased by 50%. It now deals additional physical damage.
+Arc: Damage reduced slightly at all levels. At player level 68, it should deal approximately 8% less damage.
+Arctic Breath: Explosion area increased (to 12). The radius of the chilled ground left by the explosion now matches the radius of the explosion. Now deals approximately 20% more damage at gem level 20.
+Ball Lightning: Base radius increased by 33% (from 12 to 16). Damage reduced. At player level 68 it should deal approximately 24% less damage.
+Bear Trap: Now grants 1% increased physical damage per 1% quality (up from 0.75% per 1% quality).
+Cleave: Damage dealt while dual wielding reduced to 60% for each weapon (from 65%). Base damage increased by 10%.
+Cold Snap: Quality now instead increases area of effect by 0.5% per 1%, and no longer affects freeze or chill duration. Critical Strike Chance has been increased from 4% to 5%.
+Cyclone: Reduced the mana cost at all levels. It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality).
+Detonate Dead: Radius of the explosion increased by 12.5% (from 16 to 18). Damage caused by the detonation of corpses can no longer be reflected.
+Discharge: Damage increased at lower levels. It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality). Critical Strike Chance has been reduced from 8% to 7%.
+Dominating Blow: Minions deal 20% less damage at level 1, with the penalty reduced at each gem level. Base duration set to 20 seconds at all levels. Mana cost reduced at all levels. It now grants 0.5% increased damage per 1% quality instead of affecting duration.
+Dual Strike: Now grants 0.5% increased attack speed per 1% quality instead of increased critical strike chance.
+Devouring Totem: Reduced the mana cost at all levels. It now lasts 8 seconds at all levels. Devouring Totem now increases totem life by 1% per 1% quality (was 3% per 1% quality).
+Elemental Hit: Now has a base chance to inflict elemental status ailments.
+Ethereal Knives: Now grants 1% Increased projectile speed per 1% quality instead of increased projectile damage. Base Cast Speed has been increased from a cast time of 800ms to 600ms, the mana costs have been reduced to compensate for the increase in cast speed. Critical Strike Chance has been increased from 5% to 6%.
+Fireball: Damage increased by 15%. It now has a base chance to ignite. Its projectile speed has been increased by 30%.
+Firestorm: Had a very slight damage buff. Area of effect of explosions increased by 11% (9 to 10). It now grants 1% area damage per 1% quality instead of reduced delay between fireballs. The Duration of Firestorm has been increased from 1.3 seconds to 2 seconds at all levels. Base Cast Speed has been increased from a cast time of 1 second to 900ms. Critical Strike Chance has been increased from 5% to 6%.
+Flame Surge: Surge width increased by 20% (10 to 12). Cast time reduced to 500ms from 800ms. Damage reduced by 25% to compensate for the cast speed increase (The net result is more damage overall though!).
+Flame Totem: Now adds additional projectiles to spray as it levels up. Totem life increased. It now increases totem life by 1% per 1% quality (was 3% per 1% quality). Critical Strike Chance has been increased from 4% to 5%.
+Flameblast: Now grants 1% increased damage per 1% quality (quality no longer affects ignite chance). It no longer works with Spell Echo. Base Cast Speed has been increased from a cast time of 300ms to 200ms to compensate for no longer working with Spell Echo.
+Flicker Strike: Base damage increased to 130% from 125%. The Increased Attack Speed has been removed and instead Flicker Strike grants 20% More Attack Speed. It now increases damage by 1% per 1% quality instead of increasing critical strike chance.
+Freezing Pulse: Damage increased by 25% to compensate for the shotgunning mechanic change.
+Frenzy: Now deals 5% increased physical damage per frenzy charge at all levels. Quality now grants 0.5% increased attack speed per 1% (quality value is no longer affected by frenzy charges).
+Glacial Cascade: Base cast speed reduced to 800ms from 850ms. Added an additional sequence to the effect (increasing the total length). It now grants 1% increased damage per 1% quality (was 0.5% per 1% quality). Critical Strike Chance reduced from 6% to 5%.
+Glacial Hammer: Base damage increased by 7.5% (130% of weapon damage to 140% of weapon damage). Chance to freeze is now 25% across all levels.
+Heavy Strike: Now grants 1% increased stun duration per 1% quality (quality no longer affects attack speed).
+Ice Nova: Damage increased by up to 36% at high levels. Base cast time reduced to 900ms (from 935ms). It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality). Critical Strike Chance has been increased from 5% to 6%.
+Ice Shot: Now increases cold damage by 1% per 1% quality.
+Ice Spear: Now grants 2% increased projectile speed per 1% quality (was 3% per 1% quality)
+Incinerate: Damage increased by approximately 100% to compensate for the shotgunning mechanic change. Base Cast Speed has been increased from a cast time of 240ms to 200ms. Spell Echo can no longer support this skill.
+Infernal Blow: Base damage increased by 4% (from 125% to 130% of base damage). It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality). The explosion effect can no longer reflect damage to the player. The explosion damage has been reduced from 25% to 10% of monsters life.
+Leap Slam: Increased the mana cost from 15 to 18 and standardised the knockback chance to 20% at all levels. The maximum range has been reduced from 70 to 60, and Leap Slam can no longer be supported by Multistrike. It now grants 0.5% increased knockback chance per 1% quality instead of increased stun duration.
+Lightning Arrow: Base damage increased from 70% to 90%. Radius of the lighting effect increased by 12.5% (from 16 to 18). It now grants 0.5% increased chance to shock per 1% quality instead of increased shock duration.
+Lightning Strike: Now grants 2% chance to pierce per 1% quality (was 3% per 1% quality).
+Lightning Tendrils: Damage reduced by 25% and area of effect reduced by 18% (from 26 to 22). Critical Strike Chance increased from 5% to 6%.
+Lightning Trap: Damage increased by approximately 80% at all levels. We also reduced its mana cost at higher levels. Critical Strike Chance increased from 4% to 5%.
+Lightning Warp: Reduced the mana cost slightly at all levels. It now grants 1% increased cast speed per 1% quality (down from 1.5% per 1% quality).
+Molten Shell: Greatly reduced the mana cost. It now grants 1% chance to ignite per 1% quality (was 1.5% per 1% quality).
+Molten Strike: Now grants 1% increased fire damage per 1% quality (was 0.75% per 1% quality).
+Poison Arrow: Reduced the mana cost across all levels. It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality). Damage increased by approximately 26% at gem level 20.
+Power Siphon: Now grants 1% increased damage per 1% quality (was 0.75% per 1%).
+Puncture: Now grants 1% increased skill effect duration per 1% quality (was 1.5% per 1% quality).
+Rain of Arrows: Base damage increased from 75% to 100%. Area of effect increased by 33% (from 18 to 24) across all levels, but no longer grants increased area of effect per gem level. It now grants 1% increased damage per 1% quality instead of increased attack speed. Rain of Arrows mana costs have been reduced.
+Raise Spectre: Now grants 1% increased Minion movement speed per 1% quality (was 1.5% per 1% quality).
+Reave: Duration on Reave increased to 3 seconds from 2. The maximum number of stacks you can obtain is now 4. The area of effect per stack has been doubled to compensate for the reduced maximum stack count. It now defaults to your auto-attack if you don't have enough mana to use Reave. Stacks of Reave are not removed if you use other actions.
+Righteous Fire: Now grants 1% increased spell damage per 1% quality (was 0.75% per 1%).
+Searing Bond: Skill duration reduced to 8 seconds. It now increases totem life by 1% per 1% quality (was 3% per 1% quality).
+Shield Charge: The end animation now scales with attack speed. Shield Charge can no longer be supported by Multistrike. Base Damage is now 50%. Damage at maximum range has been increased, and the stun duration has been set to 200% at all levels. It now has 50% increased movement speed increasing to 69% at level 20. It now grants 1% increased damage per 1% quality (was 0.75% per 1% quality).
+Shockwave Totem: Now increases Totem Life by 1% per 1% quality (was 3% per 1% quality). The knockback chance has been reduced to 25% (from 100%). Critical Strike Chance has been increased from 4% to 5%.
+Spark: Damage increased by 76%. It now grants 2% increased projectile speed per 1% quality (was 3% per 1% quality). Critical Strike Chance has been increased from 5% to 6%.
+Split Arrow: Fires 4 additional projectiles at level 1 and fires one additional projectile every 4 gem levels. Base Damage has been increased from 80% to 90%.
+Static Strike: Now grants 0.5% increased area of effect radius per 1% of quality (was 0.75% per 1% quality). The explosions now deal 40% Less Damage (from 30% Less Damage). The Radius of the explosions has been reduced from 18 to 16 and the explosions now have a 20% variance in area of effect.
+Storm Call: Area of effect increased by 14% (from 14 to 16). Mana costs increased at higher levels. Critical Strike Chance increased from 5% to 6%. The Damage range has been Tightened. The Damage has been increased by approximately 22% at gem level 20. It now grants 0.5% increased area of effect per 1% quality (was 4% per 1% quality.)
+Summon Skeletons: No longer deals less elemental damage but now has a new stat which reduces Minions Added Damage by 50%.
+Sweep: Area of effect increased by 30% (from 20 to 26), and no longer knocks enemies back beyond the max radius. Sweep is now affected by weapon speed, but has a Less Attack Speed modifier. It now grants 0.5% increased area of effect radius per 1% of quality instead of increased attack speed. Base Damage has been increased from 85% to 100%. It now works with all two-handed melee weapons.
+Tornado Shot: Now grants 1% increased projectile damage per 1% quality (was 0.5% per 1% quality). Base Damage has been reduced from 90% to 80% at gem level 1.
+Whirling Blades: Skill speed increased by 29%.
+Temporal Chains: Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Duration increases per level slightly modified. The end result is slightly longer duration at level 1 but slightly shorter duration at level 20.
+Vaal Flameblast: Damage reduced by approximately 10%.
+Vaal Lightning Trap: Damage increased by 33%. Projectiles from Vaal Lightning Trap now also has 100% pierce chance. Critical Strike Chance increased from 4% to 5%.
+Vaal Storm Call: Damage increased by 20%. The Radius on the explosion has been increased to match the new value on Storm Call. The base Soul Requirements have been increased to 16. Critical Strike Chance increased from 5% to 6%.
+Vaal Reave: Maximum number of stacks is now 8. The base Soul Requirements have been increased to 24.
+Elemental Weakness: Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). It now grants 0.25% reduced elemental resistances on cursed enemies per 1% quality (was 0.4% per 1% quality).
+Warlord's Mark: Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level.
+Enfeeble: Mana cost reduced at all levels. The reduced critical strike chance and critical strike multiplier effects are now 25% at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). It now grants 0.5% reduced critical strike chance and accuracy on cursed enemies per 1% quality instead of just critical strike chance.
+Assassin's Mark: Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level.
+Projectile Weakness: Pierce chance is now 50% at all levels. Knockback chance is now 25% at all levels. Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level. It now grants 0.5% chance to pierce cursed enemies per 1% quality (was 0.75% per 1% quality).
+Vulnerability: Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level.
+Flammability, Frostbite and Conductivity: Resistance reduction increased by 5% at all levels. Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level. Flammability now grants 0.5% increased burn duration on cursed enemies per 1% of quality (was 1% per 1% quality).
+Poacher's Mark: Now grants significantly more life on hit at higher levels. Mana cost reduced at all levels. Area of effect increases per gem level reduced, but the base area of effect has been increased by 37.5% (from 16 to 22). Normalised the increased duration per gem level.
+Anger: Now also adds flat fire damage to spells.
+Wrath: Grants X% more spell lightning damage.
+Clarity: Reduced the cost and amount of mana regeneration it grants at all levels.
+Vaal Clarity: Base duration increased by 2 seconds.
+Herald of Ash: Radius reduced by 16.5% (from 12 to 10) and base overkill damage reduced to 80% (from 100%).
+Herald of Thunder: Reduced added damage at all levels.
+Herald of Ice: Shattering effect no longer reflects damage to the player. Reduced added damage at all levels.
+Immortal Call: Consuming endurance charges now grants increased duration, instead of upping the base duration. The Base Duration has been increased from 250ms to 400ms. The Cooldown has been increased from 500ms to 3 seconds. The Quality now grants 2% increased cast speed per Quality.
+Added Fire Damage: Grants an additional 5% of physical damage added as fire damage at all levels. It now grants 0.5% increased fire damage per 1% quality (was 0.75% per 1% quality).
+Greater Multiple Projectiles and Lesser Multiple Projectiles: Instead of giving Increased Projectile Damage per gem level, each level now reduces the projectile damage penalty.
+Faster Projectiles: Now grants 50% Projectile Speed at Level 1, increasing by 1% per Level. Now Grants 20% Increased Projectile Damage at Level 1, increasing by 0.5% per Level.
+Added Cold Damage: Increased the added damage at all levels. No longer grants increased chill duration. Now grants 0.5% increased cold damage per 1% quality instead of increased chance to freeze.
+Additional Accuracy: Now grants 1% increased accuracy per 1% quality instead of increased critical strike chance.
+Increased Area of Effect: Now grants 20% increased area of effect at level 1 (up from 14%). Quality now grants increased area damage rather than area of effect.
+Added Lightning Damage: Increased the added damage at all levels. Now grants 0.5% increased lightning damage per 1% quality instead of increased chance to shock and shock duration.
+Knockback: Now grants 50% increased knockback distance at all levels.
+Mana Leech: Now grants 2% mana leech at all levels. Gains increased mana leeched per second per level.
+Life Leech: Now grants 2% life leech at all levels. Gains increased life leeched per second per level.
+Pierce: Base increased pierce chance starts 10% higher. It now grants 0.5% chance to pierce per 1% quality (was 0.75% per 1% quality).
+Trap: Damage multiplier now starts at 20% at level 1 (up from 15%). It now grants 0.5% increased trap throwing speed per 1% quality (was 0.75% per 1% quality)
+Item Rarity: Increased item rarity now starts at 40% at level 1 of the gem, and increments by 1% per level.
+Concentrated Effect: Now functions multiplicatively with other area of effect modifiers. In addition, the damage multiplier now starts at 40% (down from 50%). The mana cost multiplier is now 140% rather than 160%. It now grants 0.5% increased area damage per 1% of quality instead of reducing the mana cost.
+Minion Damage: Mana multiplier reduced to 130% from 150%. Damage now starts at 30% (down from 45%) but now acts multiplicatively with other sources. In general this should be a large boost to minion damage.
+Increased Duration: Mana multiplier reduced to 140% from 150%.
+Minion Speed: Now increases minion movement, attack and cast speed. Mana multiplier has been reduced to 140% from 150%.
+Elemental Proliferation: Supported skills now deal 30% less damage, with the penalty reduced at periodic gem levels. The radius is now 12 at all levels, and now grants all status ailments 0.5% increased duration per 1% quality across the board.
+Blood Magic: Now grants 0.5% reduced mana cost per 1% quality instead of increased attack and cast speed.
+Culling Strike: No longer penalises attack speed. It now grants 2% increased damage per level.
+Point Blank: No longer penalises attack speed. Instead, it grants 2% increased projectile damage per level. It now grants 0.5% increased projectile damage per 1% quality (was 0.75% per 1% quality).
+Iron Grip: No longer penalises attack speed. Instead, it grants 2% increased projectile damage per level. It now grants 0.5% increased projectile damage per 1% quality (was 0.75% per 1% quality).
+Iron Will: No longer penalises cast speed. Instead, it grants 2% increased spell damage per level. It now grants 0.5% increased spell damage per 1% quality (was 0.75% per 1% quality).
+Spell Totem: Mana multiplier reduced to 200% (from 250%). Damage penalty grows smaller per gem level. Totem placement is now accelerated by modifiers to totem placement speed rather than cast speed. Spell Totem duration is now 8 seconds at all levels, and now grants 1% increased totem placement speed per 1% quality instead of increased duration.
+Rejuvenation Totem: Increased life recovery at higher levels. Totem duration is 8 seconds at all levels, and Rejuvenation Totem now grants 3% increased aura radius per 1% quality instead of increased totem life.
+Freeze Mine: Mana cost reduced at all levels.
+Conversion trap: Now grants 1% increased skill duration per 1% quality (was 0.75% per 1% quality).
+Chance to Flee: Now grants 1% chance to flee per 1% quality (was 0.75% per 1% quality).
+Decoy Totem: Reduced the mana cost at all levels. Now lasts 8 seconds at all levels. Now increases totem life by 1% per 1% quality (was 3% per 1% quality).
+Blind: Now grants a 10% chance to blind at all levels. Higher levels now grant an increased blind duration. It now grants 1% increased blind duration per 1% quality (was 0.75% per 1% quality).
+Ranged Attack Totem: Mana multiplier reduced to 200% (from 250%). Damage penalty grows smaller per gem level. Totem placement is now accelerated by modifiers to totem placement speed rather than cast speed. Ranged Attack Totem duration is now 8 seconds at all levels, and now grants 1% increased totem placement speed per 1% quality instead of increased duration.
+Chain: Damage penalty grows smaller per gem level, instead of granting increased damage per level. Mana multiplier has been reduced to 150% (from 175%).
+Fork: Now grants 1% more damage per level (which is multiplicative, instead of the additive increase previously). Mana multiplier has been increased to 130% (from 115%)
+Multistrike: Damage penalty has been reduced to 30% less damage (was 36% less) and attack speed bonus at level 1 has been reduced to 75% increased attack speed (was 88%). Multistrike no longer gains increased damage per gem level.
+Spell Echo: Increased the mana multiplier to 140% (from 130%).
+Melee Splash: No longer gains increased damage per level. Instead, now gains 1% more damage to the main target and 1% increased damage to the other targets, alternating per level. It now grants 0.5% increased area of effect radius per 1% of quality (was 1% per 1% quality).
+Power Charge on Critical: Base chance now starts at 35% (up from 30%). It now grants 1% increased critical strike chance per 1% quality instead of further chance to gain a power charge on critical strike.
+Increased Burning Damage: Now grants 0.5% increased burning damage per 1% quality instead of increased chance to ignite.
+Minion and Totem Elemental Resistance: Now grants 25% to all elemental resistances at level 1 and increments each every level (as opposed to one per level previously). It now grants 0.5% to all elemental resistance per 1% quality (was 0.35% per 1% quality)
+Cast on Critical Strike: Level 1 now grants a 50% chance to cast supported skills on crit (up from 30) and 69% chance at level 20 of the gem (up from 68%).
+Cast on Melee Kill: Increased spell damage modifier starts at 40% at level 1 (up from 20%) and grants 78% increased spell damage at level 20 (up from 74%).
+Multiple Traps: No longer grants additional damage, but instead reduced the damage penalty per gem level.
+Smoke Mine: Initial smoke cloud duration increased to 4 seconds at level 1 (from 2.75 seconds) and bonus movement speed increased to 30% (from 20%).
+Slower Projectiles: Now slows projectiles multiplicatively with other projectile slowing effects. Also grants 20% more projectile damage at level 1 (up from 8%).
+Reduced Duration: Now lowers duration multiplicatively with other duration reducing effects. Greatly increased the amount that each level reduces supported skill durations. Has been renamed to Less Duration.
+Cast when Stunned: Greatly increased the chance for it to trigger at all levels.
+Enhance: Now has a 115% mana cost multiplier (down from 125%).
+Flesh Offering: The increases to movement, attack and cast speed now start at 20% (down from 30%).
+Bone Offering: Now grants life on block for minions while active.
+Fire Trap: Burn Duration increased by 30% at all Levels. Critical Strike Chance increased from 5% to 6%.
+Vaal Fireball: Now has 50% increased Area of Effect at all Levels. Damage adjusted to compensate for damage adjustements to Fireball.
+Vaal Arc: Now has 100% chance to Shock (up from 10%). Now gains 1.5% increased Shock Duration per Quality.
+Vaal Molten Shell: Damage reduced by 30%. Increased base Soul Requirement to 48.
+Vaal Ice Nova: Damage adjusted to compensate for damage adjustments to Ice Nova. Reduced base Soul Requirement to 24.
+Vaal Ground Slam: Now has 30% increased Area of Effect. Damage has been adjusted to be double Ground Slam (160% base Damage).
+Vaal Rain of Arrows: Damage has been adjusted to be approximately 40% higher than Rain of Arrows (140% Base Damage).
+Vaal Cold Snap: Damage has been increased by 30%.
+Vaal Lightning Strike: Increased maximum number of stored uses to 3. Reduced base Soul Requirement to 16.
+Vaal Double Strike: Increased maximum number of stored uses to 3. Reduced base Soul Requirement to 16.
+Vaal Spark: Critical Strike Chance increased to 6%.
+Vaal Cold Snap: Critical Strike Chance increased to 5%.
+Vaal Ice Nova: Critical Strike Chance increased to 6%.
+
+PvP Balance:
+The massive list of changes in The Awakening has meant that PvP balance has shifted significantly. We will be carefully observing PvP over the coming weeks and fully expect to see balance issues discovered. In the meantime, some base-level PvP balance changes have been made to address known issues. These values are relative to their core game counterparts.
+
+Due to the projectile shotgunning changes, Spark and Freezing Pulse no longer have lower damage in addition to the PvP scaling.
+Molten Strike now deals 20% less damage in addition to the PvP scaling.
+Glacial Cascade now deals 15% more damage in addition to the PvP scaling.
+Ball Lightning now deals 10% more damage in addition to the PvP scaling (down from 15%).
+Cyclone now deals 30% less damage in addition to the PvP scaling.
+Glacial "Hilbert" Hammer now deals 15% less damage in addition to the PvP scaling (up from -20%).
+Skills supported by Cast on Death deal 85% less damage in addition to the PvP scaling.
+Skills supported by Cast when Damage Taken deal 30% less damage in addition to the PvP scaling.
+
+CHAPTER FOUR: BUG FIXES
+
+Fixes to Functional Bugs:
+Fixed a bug where a full stack of currency items would merge into a new item rather than an existing stack of the destination currency.
+Numerous sync problems with many skills in predictive mode have been fixed.
+Fixed problems with walkability and sync around strongboxes.
+Traps no longer get monsters out of sync.
+The /oos command no longer affects other players in the same area. This command does nothing in Lockstep mode.
+Traps can no longer be used to block chokepoints.
+Fixed a bug where applying Skin Transfers in voided leagues could cause characters to become non-deletable.
+Performance of particle effects has been substantially increased by suppressing multiple copies of the same effect playing on the same entity at the same time.
+Minions (or other transitionable effects) created by triggered skills can now transition between areas.
+Fixed a bug that made it hard to open doors when monsters were near them.
+Fixed a client crash that could occur when rejoining the game after you were disconnected for performing too many actions.
+Fixed some performance issues related to the chat box.
+Fixed a client crash when changing the webcam size while the webcam preview is showing.
+Fixed a bug where on-kill flask charges were still awarded in a PvP event that had flask charges disabled.
+Fixed a bug with Conversion Trap where it could cause monsters to walk on the spot.
+Fixed a bug where you could change the selected item in a disabled option using the mouse wheel.
+Fixed a bug where the corpse targeting option wouldn't update until you pressed the selected key.
+Fixed a bug where the 40% quality recipe wouldn't work under rare circumstances.
+Fixed a bug where whispering or inviting a developer to your party from a message they have written in global chat would not work correctly.
+Blink Arrow (and Mirror Arrow) will no longer default to the standard attack if they can't be executed. This prevents the case where clicking invalid terrain while trying to Blink Arrow to safety would cause the player to fire a standard attack arrow, taking up time while they're under attack.
+If you cast Lightning Warp then die and resurrect at the checkpoint, the Lightning Warp no longer completes.
+Ball Lightning now properly checks for spell dodge.
+Fixed a rare client crash that could occur when moving quickly between hundreds of item descriptions.
+Fixed problems that would occur when using Raise Spectre on monsters that emerge.
+The monsters in the Coward's Trial map are now preloaded correctly.
+You can no longer use /oos to get to the other side of certain blocking objects.
+Fixed a bug where you could place Totems too far away by holding shift.
+You can now tab between Stream option text fields.
+Fixed a bug where Vengeance wouldn't trigger if you hit yourself.
+Fixed various bugs with /remaining reporting the remaining monster count.
+Fixed a bug where some projectile effects would fail to explode after being evaded.
+Fixed a bug where some bosses that were meant to be reducing the effect of curses on themselves weren't.
+Fixed a bug where Alal the Terrifying had too many projectiles on her Ethereal Knives in some difficulties.
+Fixed an issue where the character panel would not properly display Endurance and Power Charge duration.
+The special Forsaken Master vendor mods now have appropriate vendor prices.
+
+Fixes to Visual Bugs:
+Flameblast, Storm Call and their Vaal equivalents now always appear at the place where the explosion will be. This also fixes the problem where they were sometimes invisible.
+Fixed a bug where the stash wouldn't close correctly when you walk away from it.
+Life, mana and energy shield values now regenerate smoothly rather than stepped.
+Fixed bugs that allowed Map Fragments to be corrupted or master-crafted.
+Mirrored items that are linked in chat now have their art facing the correct direction.
+The interface for manipulating hideout decorations no longer claims that they can be flipped.
+Confirmation is no longer required when taking a quest reward where there is only one option (for example, crafting benches).
+The hideout symbol is now shown on the map legend.
+Guild tags that displayed incorrectly now display correctly.
+Fixed minor visual issues with the stack count shown on linked items.
+Fixed a bug with Dominating Blow that could cause a permanent UI separator to appear until you log out.
+Fixed two bugs where an item hover could get stuck open.
+Fixed a bug where the level-up effect would rotate with the player.
+Fixed a bug where swapping weapons with an equipped gem could cause display issues with the skill description.
+Fixed a bug where Lunaris Piety could play her death animation twice if killed during her fire or cold form.
+Information on item drop probabilities can no longer be data-mined.
+Fixed a bug where being teleported within a level could set the environment to an incorrect one.
+Fixed a bug where mission markers would be shown for monsters or exiles spawned by strongboxes after a mission had already finished.
+Fixed a calculation issue with the estimation of Armour against Projectile Attacks on the character screen.
+Improved the rendering of some rotating user interface elements so that they rotate more smoothly.
+Maps that are both corrupted and unidentified will now display "Map is Corrupted" correctly.
+The cooldown character audio is no longer played for triggered skills or when using a charge to bypass cooldown.
+Fixed a bug where crafting bench costs would show as red even if you've loaded a stash tab with enough currency to pay for them.
+Fixed a bug where item hovers would be shown for items off-screen if you moved your mouse to the location outside of the Path of Exile window where the item would be.
+Fixed a camera bug that was visible when using Flicker Strike while being zoomed in.
+Fixed a bug where microtransaction tip messages wouldn't appear in chat unless you were in a global channel.
+Fixed a problem where you could hear some sounds from too far away.
+
+ACKNOWLEDGEMENTS
+
+I'd like to thank the rest of our development team for the immense amount of effort they put in over the last few weeks. We set a release date, and they delivered. I am so proud of their talent and the quality of game that resulted from it.
+
+We'd like to thank all of The Awakening's Closed Beta testers who provided consistently useful feedback over the last few months.
+
+We'd like to thank the people who sent cakes, pizza and other food to us recently. It fueled a lot of content creation!
+
+We'd also like to thank all of our supporters for their generous contributions over the years. Without you, none of this would be possible. Please consider buying or upgrading a Supporter Pack if you'd like to see more Path of Exile expansions!
+
+Finally, I'd like to thank the entire community. Regardless of whether you're able to afford to support Path of Exile's development or not, you've made the journey a delight. With your promotion and help, Path of Exile has grown beyond our imagination. Please spread the word about the release. Let's break some records!
