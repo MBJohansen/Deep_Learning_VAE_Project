@@ -5,3 +5,7 @@ The Python notebook called "PN_AE_Sample" contains the code for the AE using the
 
 The data files used for training the models can be found in the folder called "Data".
 
+The following packages are required to run the notebooks:
+ - Pytorch
+ - NLTK
+ - Torchtext
