@@ -1,2 +1,2 @@
-# Deep_Learning_VAE_Project
+# Deep Learning - VAE Project
 Repository for implementation of AE and VAE for Deep Learning Project
