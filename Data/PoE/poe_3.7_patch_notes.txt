@@ -1,0 +1,767 @@
+www.pathofexile.com
+Path of Exile
+image
+Forum - Patch Notes - Path of Exile: Legion Patch Notes - Path of Exile
+Challenge leagues are a great opportunity for a fresh start in a new economy. All of your old characters and items are still present in the Standard and Hardcore leagues, but you're encouraged to join the new leagues, complete challenges and demonstrate your mastery of Path of Exile!
+In the Legion Challenge League, you will encounter monoliths as you journey across Wraeclast. Touching one of these monoliths will reveal ancient armies frozen in the midst of battle.
+Shatter the magical bonds that keep these warriors locked in time, but do so quickly, because the monolith's revealing effects are brief. When the effect ends, the soldiers you released will continue their battle, and even turn their violent attention to you. Defeating these soldiers in combat will earn you great rewards and, if you're lucky, splinters you may later use to access the Domain of Timeless Conflict.
+By combining your splinters into Emblems, and placing two or more Emblems in the map device, you can visit the Domain of Timeless Conflict. Here you will witness and battle the armies whose Emblems you have used, and even their powerful Generals.
+Discover powerful new jewels that drastically alter your Passive Skill Tree from each of the 5 legions, as well as new Unique items, and a brand new type of item: Incubators. Incubators can be applied to any equipment, and will remain there until you've slain enough monsters to reveal what lies inside. There are many different kinds of Incubator to find!
+With 3.7.0, there are Standard, Hardcore and Solo Self-Found variations of the Legion challenge league available. They have the same core mechanics and items. You can create private league versions of these leagues, with mods that make the game harder.
+The new challenge leagues include a set of 40 new challenges. When you complete 12 challenges, you will receive the Monolith Crown and Monolith Crown Attachment. When you reach 24 challenges, you will receive the Monolith Aura effect. At 36 challenge completed you'll receive the Monolith Wings. These microtransactions are only obtainable in this league.
+From the 19th challenge onwards and for every third challenge after that, you will receive pieces of the Legion Totem Pole decoration to display in your hideout. The Totem Pole permanently showcases how many of the Legion challenges you completed during the league.
+
+Return to top
+Overhauled Melee Combat: Amongst many other improvements, skill rebalances and reworks, we've added the ability to cancel animations early, improved damage signalling, and changed early monster balance. For more details, please see the "Melee Rebalance" section.
+Added a new Strength Skill Gem - Steelskin: Instantly reduce incoming damage for a short duration. Shares a cooldown with other Guard skills.
+Added a new Dexterity Skill Gem - Dash: Performs a series of quick teleports towards a targeted location. If using the "Attack in Place" option, the direction is reversed.
+Added a new Strength/Dexterity Skill Gem - Bladestorm: Perform a spinning attack, creating an area of effect that repeatedly deals attack damage to enemies within it based on your weapon damage and attack speed. This area of effect is stationary while in Blood Stance, and moves forward while in Sand Stance. Requires a sword or axe.
+Added a new Strength/Dexterity Skill Gem - Blood and Sand: Allows you to switch between Blood Stance and Sand Stance. Deal more melee damage with less area of effect while in Blood Stance, or gain more area of effect while dealing less melee damage while in Sand Stance. Reserves a small portion of your mana.
+Added a new Strength Skill Gem - Berserk: Consumes your Rage at an accelerating rate. While active, grants more damage, attack speed, movement speed, and causes you to take less damage. Requires 5 Rage to use, cannot be stopped once active, and only stops when all Rage is consumed.
+Added a new Intelligence Skill Gem - Frostblink: Deal cold damage in an area around your location, leaving chilled ground around you, then teleport to a targeted location. Has a cooldown that is reduced based on the number of nearby enemies when cast.
+Added a new Dexterity Skill Gem - Precision: Casts an aura that reserves a portion of your mana, and grants you and nearby allies accuracy and increased critical strike chance.
+Added a new Strength/Dexterity Skill Gem - Flesh and Stone: Casts an aura that reserves a portion of your mana, causes nearby enemies to be Maimed while in Blood Stance, and causes those enemies to take increased physical damage. While in Sand Stance, this aura causes nearby enemies to be Blinded, and causes enemies not affected by the aura to deal less damage to you.
+Added a new Strength Skill Gem - Pride: Casts an aura that reserves a portion of your mana, and causes nearby enemies to take more physical damage, increasing the damage they take the longer they are affected by the aura.
+Added a new Strength/Dexterity Skill Gem - Perforate: Strike the ground with your weapon, causing spears to strike out from the earth. These spears strike your target location multiple times while in Blood Stance, and strike outwards in a large radius from the target location while in Sand Stance. Requires a sword or axe.
+Added a new Strength Skill Gem - Chain Hook: Attacks nearby enemies with a damaging shockwave. If used at a distance, releases a chain that draws you closer to any enemy hit. Generates 1 Rage when you hit an enemy. Requires a one-handed sword, mace or axe.
+Added a new Strength Support Gem - Pulverise: Supports melee attacks, causing them to deal more damage and with a greater area of effect, but with a slower attack speed.
+Added a new Strength Support Gem - Rage: Supports melee attacks, causing you to gain 1 Rage when you hit an enemy with a supported skill, with a short exclusion timer on Rage gain from the support. Supported skills deal added physical damage based on your Rage, adding a significant amount of physical damage if your Rage is above a threshold.
+Added a new Dexterity/Strength Support Gem - Impale: Supports attack skills, granting them a chance to Impale enemies, increases the effect of Impales caused by those attacks, and causes those attacks to deal more physical damage.
+Added a new Strength Support Gem - Shockwave: Supports melee skills. Triggers a Shockwave skill on kill that deals attack damage in an area around the slain enemy. Restricts the use of supported skills to maces and staves. There was a miscommunication regarding the number of weapon-specific support gems when discussed on Baeclast earlier, and for that we apologise.
+Added a new Dexterity/Strength Support Gem - Close Combat: Supports melee attacks, causing them to deal more damage to enemies based on their proximity. Also causes supported skills to grant a buff on hit, which increases attack and cast speed for the next travel skill you use. Restricts the use of supported skills to axes and swords. There was a miscommunication regarding the number of weapon-specific support gems when discussed on Baeclast earlier, and for that we apologise.
+Added 12 new Unique Items, one of which was designed by a supporter.
+Added 14 new Divination Cards, designed by supporters.
+Added 18 new Sextant modifiers, many of which only appear on high-tier maps.
+Reworked 15 existing Unique Items, which will only drop from monsters in the Legion challenge leagues.
+Added 15 new keystones to the Passive Skill Tree, visible only when you have one of the new unique jewels introduced in Legion socketed.
+
+Return to top
+Improved the early-game experience. Fights in the first three Acts will be tougher but more responsive, involved and dynamic. This includes fights against basic monsters!
+You can now queue skills. By using one skill while another skill is in progress, that skill will be used immediately after the current skill has finished.
+Added new functionality to the Map Stash Tab which displays which tiers and maps have Elder or Shaper influence, or an Atlas Objective.
+Rage is now displayed along the top-left of the Mana orb, so you can see exactly how much Rage you have at any given time.
+Added sounds for various error cases, such as attempting to equip an invalid item.
+Smoothed the transition between resolutions while Dynamic Resolution is enabled.
+Changes to the size of characters now occur smoothly, rather than snapping between the two sizes.
+Improved the localisation of server messages.
+Improved performance of various game elements, with a particular focus on high-intensity visual effects.
+Continued to incrementally improve the sound, art, effects and environments.
+
+Return to top
+We've made massive, sweeping (excuse the pun) changes to melee combat. Many of these are specific to skills, but some are broad and affect all aspects of melee combat (and combat in general):
+Hit Multiple Enemies: Every attack -- even Glacial Hammer -- can now hit multiple targets by default. Previously, an attack would look at targets in melee range in front of your character and choose one. Now it chooses all of them that the attack physically passes through. Note that this is not "area of effect", "area damage" or "melee splash".
+Animation Cancelling: You can now interrupt a skill with movement or a movement skill. If you use a skill (any skill, not just an attack), you can now interupt the animation before it finishes playing. If you do so before the point in the animation that damage is dealt (or a projectile is created etc...) you will not deal damage. There is a small window before this point where you will be 'locked into' the animation until the contact point, so you won't accidentally prevent yourself from dealing damage by being overzealous with your movement. You won't be able to use any other skills if you previously cancelled an animation after the point it would deal damage until that animation would have finished playing, meaning you can't use animation cancelling to artificially speed up your rate of attack. You can use a skill immediately after cancelling a previous one if it didn't have a chance to deal damage (or produce a projectile etc...).
+Directional Attacks: Many monsters now deal damage in a specific area in front of them when they attack, meaning you can avoid taking damage by sidestepping or moving away. Previously, monsters would deal damage to their target, even if they had moved to the side. The area for most of these attacks is a 120 degree cone in front of them.
+Attack Signalling: We've improved a lot of enemy attack signalling, slowing down the initial windup but speeding up the strike, giving you an opportunity to respond with an appropriate movement or skill use. This is particularly the case for 'old' monsters.
+Targeting: We've made enormous improvements to how skills target enemies in groups which will result in a more natural, do-what-you-want-it-to experience. This is the culmination of many, many small user experience improvements.
+Attack Range Signalling: Player attacks now accurately signal their damage range via skill effects and trails. Sources which increase your attack range or area of effect with an attack will be reflected in the attack's visual effect.
+Fluidity: We've made a lot of changes to how animations work to allow changing targets while chaining attacks back-to-back to look and feel much less clunky. A dual-wielding character will alternate attacks in a way that feels much more natural than previously, and will make your off-hand weapon choice more important. We've also updated pathing, which should allow for much smoother movements with your character.
+Accuracy: Accuracy is no longer capped to a 95% chance to hit. With enough accuracy, an enemy will never be able to evade an attack, so you will no longer have lone surviving monster frustratingly taunting you (unless you didn't get enough accuracy!).
+Blocking Enemies: Enemies with shields can block attacks, but will only prevent a large portion of the incoming damage, rather than all of it. When an enemy blocks an attack, an effect will play.
+Better Feedback: New effects and sounds allow you to more clearly identify who you have and have not hit with your attacks.
+
+Return to top
+Melee damage is now treated as having dealt +25% damage for the sake of calculating Stuns.
+Elemental and Chaos damage is treated as having dealt -25% damage for the sake of stuns. This is additive with the Melee damage stun bonus, so a purely Elemental or Chaos or mixed non-physical Melee hit will see no change to previous Stun behaviour.
+As mentioned above, your chance to hit enemies with an attack is no longer capped to 95%. With enough accuracy, you can guarantee that every attack will hit.
+In light of changes to melee combat (see above), the formula which turns Accuracy Rating into Chance to Hit has been changed. In general, it will be easier to hit and be hit.
+Effects that split incoming damage from specific damage types across mana and life (such as Mind of the Council) now also do this for Damage over Time effects of specific types. Previously such effects could only split damage from hits.
+Unarmed attack range of player characters has increased by 2.
+Projectiles are now treated as having a smaller collision size with regards to terrain than monsters. This should alleviate the frustration of casting Freezing Pulse through a doorway and watching your projectiles vanish before hitting anything.
+
+Return to top
+Cyclone
+Now a channelling skill.
+Now costs 2 mana at all gem levels (from 12).
+Now deals base damage equal to, and has an added damage effectiveness of, 44% at gem level 1 (from 45%), up to 54% at gem level 20 (from 56%).
+Now adds 10 to 15 physical damage to attacks at gem level 1, up to 56 to 85 at gem level 20.
+Now gains stages as it is channelled, up to a maximum 3 at gem level 1 and 6 at gem level 20, and loses stages every 0.2 seconds while not channelling.
+Now gains +1 to melee range per stage.
+Now has an attack speed multiplier of 300% (previously had 50% more attack speed).
+Modifiers to melee attack range now also apply to this skill's area radius.
+
+Lacerate
+As previously, slashes the air twice, dealing damage in two overlapping areas of effect, with the possibility that enemies in the overlapping area will be hit by both.
+Now has different behaviour depending on whether you are in Sand Stance of Blood Stance. You are in Blood Stance by default.
+While in Blood Stance, now has a 25% chance to cause bleeding, and causes you to deal 50% more damage with bleeding at gem level 1, up to 88% more at gem level 20.
+While in Sand Stance, now increases the width of the slash areas of effect by 50%.
+Now deals base damage equal to, and has an added damage effectiveness of, 100% at gem level 1 (from 60%), up to 123% at gem level 20 (from 74%).
+Now adds 5 to 8 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now has an attack speed multiplier of 60%.
+
+Immortal Call
+No longer makes you immune to physical damage for a duration.
+Base duration is now 1 second at all gem levels (from 0.4 seconds).
+Now has an instant cast time (from 0.85 seconds).
+Now causes you to take 25% less elemental damage and 25% less physical damage at gem level 1, with the values growing based on the gem level, up to 34% less elemental damage and 35% less physical damage at gem level 20.
+Now consumes endurance charges up to a maximum of 5, causing you to take 15% less physical damage per endurance charge consumed for the buff's duration.
+Increases the duration of the buff by 20% for each endurance charge consumed.
+Now has a 3 second cooldown, which does not recover during its effect.
+Shares its cooldown with other guard skills (Steelskin and Molten Shell).
+
+Molten Shell
+Now has a base duration of 3 seconds at all gem levels (from 10).
+Now grants 50 additional armour at gem level 1 (from 17), up to 858 at gem level 20 (from 943)
+Now creates a buff that can take damage equal to 20% of your armour.
+Now causes 75% of damage from hits to be taken from the buff before your life or energy shield.
+Now reflects 100% of damage taken from the buff as fire damage when the buff expires or is depleted at gem level 1, up to 1050% at gem level 20.
+Now has a 4 second cooldown (from 1).
+Shares its cooldown with other guard skills (Steelskin and Immortal Call).
+
+Shield Charge
+Now deals damage in a cone, rather than a circle, on impact.
+Now bashes when used against targets at very close ranges.
+Can now be used with wands.
+Now deals base damage equal to, and has an added damage effectiveness of, 100% at gem level 1 (from 50%), remaining the same through to gem level 20 (from 61%).
+Now has 75% increased Stun Threshold Reduction on enemies at maximum charge distance (from 50%).
+Now deals 150% more damage with hits at maximum charge distance (from 200%).
+Now grants 90% increased movement speed during the attack at gem level 1 (from 75%), up to 109% at gem level 20 (from 94%).
+Now has a mana cost of 10 (from 8) at all gem levels.
+Now gains 1% increased movement speed per 1% gem quality (previously 1% increased damage per 1% quality).
+Now deals damage based on your equipped shield, not your weapon. Here's how it does it:
+Base off hand critical strike chance is 5%.
+Adds 0.1% to critical strike chance per 10 maximum energy shield on shield.
+Deals 11 to 17 base off hand physical damage at gem level 1, up to 132 to 198 at gem level 20.
+Adds 2 to 3 physical damage per 15 armour or evasion rating on shield.
+Base off hand attack time is 0.53 seconds at gem level 1, down to 0.48 seconds at gem level 20.
+
+Return to top
+General
+"Physical" is now a skill type and will now appear on the appropriate gems as a tag.
+"Strike" is now a skill type as well, and appears on items which do not have an 'area of effect' but can still hit multiple targets (essentially, all the previously single-target skills now have this tag). This is used to determine which skills some supports (such as Melee Splash Support) can now support.
+"Blink" is a skill type and appears on Frostblink, Flame Dash and Dash, and indicates that all of these skills share the same cooldown.
+"Guard" is also a skill type and appears on Immortal Call, Steelskin and Molten Shell, and indicates that all of these skills share the same cooldown.
+All melee skills now have an Attack Speed multiplier built into the gem. This is functionally identical to the effects of the "more attack speed" or "less attack speed" stat lines that were previously on some gems.
+The following skills are now considered "Travel" skills and have the "Travel" tag: Blink Arrow, Bodyswap, Flame Dash, Leap Slam, Lightning Warp, Phase Run, Shield Charge, Smoke Mine, Vaal Lightning Warp, Whirling Blades.
+The following skills are now considered "Guard" skills, have a shared cooldown, and have the "Guard" tag: Immortal Call, Molten Shell, Steelskin.
+All melee attacks now apply a visual to your weapon as you swing to better illustrate your attack's range.
+Most, if not all, attacks and spells also now accurately signal their area of effect, including any increases or reductions.
+Minion targeting is now less weird if using a movement skill while also channelling.
+
+Specific Skills
+Quite a few melee skills have had their base attack speed lowered slightly and their base damage raised. This is due to the increase in effective clear speed from the introduction of animation cancelling, whereby you can start moving to the next pack of monsters before your attack would otherwise have ended.
+Ancestral Protector
+
+Now deals base damage equal to, and has an added damage effectiveness of, 90% at gem level 1 (from 80%), up to 144% at gem level 20 (from 133%).
+
+Ancestral Warchief
+Now deals base damage equal to, and has an added damage effectiveness of, 110% at gem level 1 (from 100%), up to 133% at gem level 20 (from 123%).
+Now has an attack speed multiplier of 90% (rather than 10% less attack speed).
+
+Bane
+Now deals 45.7 base chaos damage per second at gem level 1 (from 66.8), up to 895.6 at gem level 20 (from 1060.6).
+
+Blade Flurry
+Now deals base damage equal to, and has an added damage effectiveness of, 32% at gem level 1 (from 45%), up to 45% at gem level 20 (from 56%).
+Now adds 14 to 20 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now has 29% larger target-acquiring radius while channelling, and 47% larger target-acquiring radius after channelling ends.
+Now has an attack speed multiplier of 160% (rather than 60% more attack speed).
+
+Cleave
+Now deals base damage equal to, and has an added damage effectiveness of, 125% at gem level 1 (from 110%), up to 170% at gem level 20 (from 163%).
+Now adds 2 to 3 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now has an attack speed multiplier of 80%.
+
+Charged Dash
+Now deals base damage equal to, and has an added damage effectiveness of, 95% at gem level 1 (from 75%), up to 110% at gem level 20 (from 92%).
+Now has an attack speed multiplier of 160% (rather than 60% more attack speed).
+
+Consecrated Path
+Now deals base damage equal to, and has an added damage effectiveness of, 150% at gem level 1 (from 120%), up to 184% at gem level 20 (from 147%).
+Now has an attack speed multiplier of 80%.
+
+Dominating Blow
+Now deals base damage equal to, and has an added damage effectiveness of, 165% at gem level 1 (from 140%), up to 190% at gem level 20 (from 172%).
+Now causes minions to deal 1% increased damage per 1% gem quality (from 0.5% per 1% gem quality).
+
+Double Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 91% at gem level 1 (from 70%), up to 112% at gem level 20 (from 94%).
+Now has a 25% chance to cause bleeding.
+Now has an attack speed multiplier of 80%.
+
+Dual Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 125% at gem level 1 (from 58%), up to 170% at gem level 20 (from 104%).
+Now has 50% increased critical strike chance at gem level 1, up to 107% at gem level 20.
+Now has 100% more critical strike chance against enemies that are on full life.
+Now deals 30% more damage with hits and ailments against enemies that are on full life.
+Now has an attack speed multiplier of 70%.
+Now gains +0.5% to critical strike multiplier and 1% increased critical strike chance per 1% quality (previously 0.5% increased attack speed per 1% quality).
+
+Earthquake
+Now deals base damage equal to, and has an added damage effectiveness of, 85% at gem level 1 (from 90%), up to 120% at gem level 20 (from 109%).
+Aftershock now benefits from 30 to 46 added physical damage at gem level one, up to 169 to 254 at gem level 20.
+Now has an attack speed multiplier of 75%.
+Radius of the aftershock is now +2 units larger.
+Now gains 1% increased damage per 1% gem quality (rather than 1% increased physical damage).
+
+Flicker Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 142% at gem level 1 (from 130%), up to 168% at gem level 20 (from 160%).
+Now grants 15% chance to gain a Frenzy charge on hit at all levels.
+Now grants a buff that provides 20% increased movement speed for 3 seconds.
+Now has an attack speed multiplier of 120% (rather than 20% more attack speed).
+Now grants 0.25% chance to gain a Frenzy charge on hit per 1% gem quality (previously 1% increased damage per 1% quality).
+
+Frenzy
+Now deals base damage equal to, and has an added damage effectiveness of, 115% at gem level 1 (from 110%), up to 135% at gem level 20 (from 136%).
+Now deals 5% more attack damage per Frenzy Charge (previously 5% increased).
+Now has 5% more attack speed per Frenzy Charge (previously 5% increased).
+
+Frost Blades
+Now deals base damage equal to, and has an added damage effectiveness of, 102% at gem level 1 (unchanged), up to 140% at gem level 20 (from 142%).
+Now adds 2 to 3 cold damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now gains 1% increased damage and 1% increased projectile speed per 1% gem quality (previously gained 1% increased projectile damage per 1% gem quality).
+
+Glacial Hammer
+Now has 155% damage effectiveness at gem level 1 (from 140%), up to 200% effectiveness at gem level 20 (from 182%).
+Now gets +2 to melee range at gem level 1 (from 0), up to +4 at gem level 20 (from 2).
+Now converts 60% of physical damage to cold (from 50%).
+Now adds 2 to 3 cold damage to attacks against chilled enemies at gem level 1, up to 75 to 113 at gem level 20.
+Every third successive strike now freezes enemies as if it were dealing 200% more damage at gem level 1, up to 390% at gem level 20.
+
+Ground Slam
+Now deals base damage equal to, and has an added damage effectiveness of, 95% at gem level 1 (from 100%), up to 125% at gem level 20 (unchanged).
+Now adds 2 to 3 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now has an attack speed multiplier of 90%.
+Now gains 1% increased Stun Duration on enemies and 0.5% increased area of effect per 1% gem quality (from 1.5% increased Stun Duration on enemies per 1% gem quality).
+
+Heavy Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 176% at gem level 1 (from 150%), up to 222% at gem level 20 (from 194%).
+Now has +2 to melee range at gem level 1 (from 0), up to +4 at gem level 20 (from +2).
+Now has 20% chance to deal double damage at all gem levels.
+Now has an attack speed multiplier of 85%.
+Now gains 1% increased Stun Duration on enemies and 1% increased damage per 1% gem quality (previously only gained increased stun duration on enemies).
+
+Herald of Agony
+Now causes Agony Crawler to deal 6% increased physical damage per virulence you have at gem level 1 (from 10%), up to 12% at gem level 20 (from 19%).
+
+Ice Crash
+Now deals base damage equal to, and has an added damage effectiveness of, 190% at gem level 1 (from 170%), up to 240% at gem level 20 (from 208%).
+The base area of effect is now 20% larger.
+Now adds 30 to 46 cold damage to attacks at gem level 1, up to 169 to 254 at gem level 20.
+Now has an attack speed multiplier of 70% (previously had 20% less attack speed).
+Now gains 1% increased damage per 1% gem quality (previously gained 1% increased cold damage per 1% gem quality).
+
+Infernal Blow
+Now deals base damage equal to, and has an added damage effectiveness of, 104% at gem level 1 (from 100%), up to 133% at gem level 20 (from 123%).
+Now adds 5 to 8 fire damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+
+Lancing Steel
+Can no longer hit close-range enemies multiple times with a single attack.
+Now deals base damage equal to, and has an added damage effectiveness of, 130% at gem level 1 (from 65%), up to 175% at gem level 20 (from 80%).
+Now adds 20 to 30 physical damage to attacks at gem level 1, up to 113 to 169 at gem level 20.
+Now has 30% chance for the non-primary projectiles to impale enemies on hit.
+Now has an attack speed multiplier of 80%.
+Now gains 0.5% chance to impale enemies on hit per 1% gem quality (previously gained 1% chance to impale enemies per 1% gem quality).
+
+Leap Slam
+Now deals base damage equal to, and has an added damage effectiveness of, 100% at gem level 1 (unchanged), up to 120% at gem level 20 (from 123%).
+Now always knocks enemies back on hit.
+Now always causes your damaging hits to stun enemies that are on full life.
+Now has 20% increased stun duration against enemies on full life at gem level 1, up to 39% at gem level 20.
+Now costs 10 mana at all gem levels (from 15 mana).
+Now gains 1% increased Stun Duration on enemies per 1% gem quality (previously gained 1% knockback chance per 2% quality).
+
+Lightning Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 135% at gem level 1 (from 130%), up to 180% at gem level 20 (from 176%).
+Now adds 1 to 13 lightning damage to attacks at gem level 1, up to 9 to 179 at gem level 20.
+Now gains 1% increased projectile speed and 1% increased damage per 1% gem quality (previously gained 1% increased lightning damage per 1% gem quality).
+
+Molten Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 120% at gem level 1 (unchanged), up to 130% at gem level 20 (from 160%).
+Now adds 2 to 3 fire damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now requires that you hit an enemy in order to produce projectiles, and splits the number of projectiles it produces evenly among all targets (if it can).
+Projectiles now deal 50% less damage at all levels (from 40% less at gem level 1, to 30% less at gem level 20 previously).
+Damage over time from projectiles now deals 50% less damage at all levels (from 40% less at gem level 1, to 30% less at gem level 20 previously).
+Now has +2 to melee range at gem level 1 (from 0), up to +6 at gem level 20 (from +2).
+
+Puncture
+Now deals base damage equal to, and has an added damage effectiveness of, 135% at gem level 1 (from 100%), up to 165% at gem level 20 (from 123%).
+Now adds 3 to 4 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now deals 30% more damage with bleeding at gem level 1, up to 49% more at gem level 20.
+Now has an attack speed multiplier of 70%.
+Now causes bleeding inflicted by the skill to deal damage 0.5% faster per 1% gem quality (previously gained 1% increased skill duration per 1% gem quality).
+
+Reave
+Now deals base damage equal to, and has an added damage effectiveness of, 135% at gem level 1 (from 100%), up to 155% at gem level 20 (from 138%).
+The base skill radius is now 2 units larger.
+Now gains up to +2 radius at gem level 20 (from +4).
+Now loses stages incrementally after a short period without hitting anything, rather than all at once.
+
+Reckoning
+Now deals base damage equal to, and has an added damage effectiveness of, 91% at gem level 1 (from 70%), up to 140% at gem level 20 (from 108%).
+Now adds 6 to 10 physical damage to attacks at gem level 1, up to 169 to 254 at gem level 20.
+
+Riposte
+Now deals base damage equal to, and has an added damage effectiveness of, 135% at gem level 1 (from 100%), up to 186% at gem level 20 (from 138%).
+Now adds 6 to 10 physical damage to attacks at gem level 1, up to 169 to 254 at gem level 20.
+
+Shattering Steel
+Now deals base damage equal to, and has an added damage effectiveness of, 45% at gem level 1 (from 40%), up to 50% at gem level 20 (from 49%).
+Now adds 8 to 12 physical damage to attacks at gem level 1, up to 113 to 169 at gem level 20.
+Now has an attack speed multiplier of 80%.
+
+Shock Nova
+The ring now deals 50% less damage (from 80%).
+The ring is now closer to the centre of the nova.
+
+Smite
+Now deals base damage equal to, and has an added damage effectiveness of, 196% at gem level 1 (from 135%), up to 218% at gem level 20 (from 165%).
+The base skill radius is now 2 units larger.
+Now gains up to +4 to radius at gem level 20 (from +6).
+Now has an attack speed multiplier of 85%.
+
+Soulrend
+The projectile now has a radius of 10 (from 13).
+
+Spectral Shield Throw
+Now deals 18 to 27 base off hand physical damage at gem level 1 (from 13 to 19), up to 182 to 272 at gem level 20 (from 132 to 198).
+Now fires more projectiles on shield impact as the skill levels up, up to 13 at gem level 20 (from 8 at all levels).
+Now has a base off hand attack time of 0.7 seconds at gem level 1 (from 0.65), down to 0.6 seconds at gem level 20 (from 0.56).
+
+Spectral Throw
+Now deals base damage equal to, and has an added damage effectiveness of, 80% at gem level 1 (from 54%), up to 100% at gem level 20 (from 90%).
+
+Static Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 107% at gem level 1 (from 100%), up to 160% at gem level 20 (from 146%).
+Now chains an additional time at all gem levels.
+
+Storm Brand
+Now has a cast time of 0.75 seconds (from 0.65 seconds).
+Now activates every 0.6 seconds while attached (from 0.5 seconds).
+Now has 10% smaller base radius of area of effect for dealing damage.
+Multiple Storm Brands can no longer 'shotgun' enemies with their overlapping areas of effect.
+Now deals 3 to 8 lightning damage at gem level 1 (from 2 to 7), up to 92 to 277 lightning damage at gem level 20 (from 75 to 225).
+Now does 80% more damage to the branded enemy at gem level 1, up to 130% more damage at gem level 20 (from 50% more at all gem levels).
+
+Sunder
+Now deals base damage equal to, and has an added damage effectiveness of, 175% at gem level 1 (from 140%), up to 220% at gem level 20 (from 182%).
+Now has an effective length of 60 units (from 48).
+Now has an attack speed multiplier of 75% (previously had 15% less attack speed).
+
+Sweep
+Now deals base damage equal to, and has an added damage effectiveness of, 170% at gem level 1 (from 100%), up to 225% at gem level 20 (from 138%).
+Now adds 5 to 8 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now always knocks enemies back on hit (from 30% chance).
+Now has an attack speed multiplier of 70% (previously had 10% less attack speed).
+
+Tectonic Slam
+Now deals base damage equal to, and has an added damage effectiveness of, 170% at gem level 1 (from 130%), up to 200% at gem level 20 (from 160%).
+The length of the primary fissure is now 36 (from 32).
+The length of the secondary fissures is now 15 (from 22).
+The width of the first secondary fissures is now 7 (from 8).
+Now has an attack speed multiplier of 80%.
+
+Vengeance
+Now deals base damage equal to, and has an added damage effectiveness of, 135% at gem level 1 (from 75%), up to 203% at gem level 20 (from 113%).
+Now adds 25 to 37 physical damage to attacks at gem level 1, up to 169 to 254 at gem level 20.
+
+Vigilant Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 222% at gem level 1 (from 165%), up to 260% at gem level 20 (from 203%).
+Now has +2 to melee range at gem level 1 (from 0), up to +4 at gem level 20 (from +2).
+Now has an attack speed multiplier of 85%.
+
+Viper Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 80% at gem level 1 (from 115%), up to 130% at gem level 20 (from 142%).
+Now converts 50% of physical damage to chaos (from 25%).
+Now adds 5 to 7 chaos damage to attacks at gem level 1, up to 169 to 254 at gem level 20.
+Now gains 0.5% increased attack speed and 0.5% increased poison duration per 1% gem quality (previously just 0.5% increased attack speed per 1% gem quality).
+
+War Banner
+Now grants you and nearby allies 15% increased accuracy rating at gem level 1 (from 40%), up to 21% at gem level 20 (from 59%).
+
+Warlord's Mark
+Now allows you to leech Life and Mana from cursed enemies with Attacks only, rather than from any source of damage.
+
+Whirling Blades
+Now deals base damage equal to, and has an added damage effectiveness of, 100% at gem level 1 (from 80%), up to 120% at gem level 20 (from 99%).
+Now has a mana cost of 10 at all gem levels (from 15).
+
+Wild Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 160% at gem level 1 (from 130%), up to 185% at gem level 20 (from 176%).
+
+Winter Orb
+Deals 30 to 37 cold damage at gem level 1 (from 25 to 31), up to 232 to 291 at gem level 20 (from 232 to 289).
+Base duration is now 1.2 seconds (from 0 base duration, building solely on stages).
+Now states that increases and reductions to cast speed now also apply to projectile frequency (actual behaviour is unchanged).
+Now has a 20% reduced target acquisition range.
+Now fires projectiles every 1.6 seconds (from every 0.8 seconds)
+Now gains 25% increased duration per stage (from +0.4 seconds to base duration per stage).
+Now has 100% more projectile frequency while channelling.
+
+Return to top
+Vaal Ancestral Warchief
+Now has an attack speed multiplier of 80% (rather than 20% less attack speed).
+
+Vaal Cyclone
+Now adds 10 to 15 physical damage to attacks at gem level 1, up to 56 to 85 at gem level 20.
+Now has an attack speed multiplier of 400% (previously had 100% more attack speed).
+Modifiers to melee attack range now also apply to this skill's area radius.
+
+Vaal Double Strike
+Now deals base damage equal to, and has an added damage effectiveness of, 28% at gem level 1 (from 33%), up to 33% at gem level 20 (from 40%).
+Now has 25% chance to cause bleeding.
+
+Vaal Earthquake
+Aftershocks now benefit from 30 to 46 added physical damage at gem level 1, up to 169 to 254 at gem level 20.
+Now gains 1% increased damage per 1% gem quality (rather than 1% increased physical damage).
+
+Vaal Glacial Hammer
+Now converts 60% of physical damage to cold (from 50%).
+Now adds 2 to 3 cold damage to attacks against chilled enemies at gem level 1, up to 75 to 113 at gem level 20.
+Now has 10% increased effect of chill at gem level 1, up to 29% at gem level 20.
+Every strike now freezes enemies as if it were dealing 500% more damage.
+
+Vaal Ground Slam
+Now adds 2 to 3 physical damage to attacks at gem level 1, up to 75 to 113 at gem level 20.
+Now gains 1% increased area of effect per 2% gem quality.
+
+Vaal Immortal Call
+Now instant. It can still no longer be obtained from drops or corruption, and will receive a full rework in future.
+
+Vaal Lightning Strike
+Now adds 1 to 13 lightning damage to attacks at gem level 1, up to 9 to 179 at gem level 20.
+Now gains 1% increased projectile speed and 1% increased damage per 1% gem quality (previously gained 1% increased lightning damage per 1% gem quality).
+
+Vaal Molten Shell
+Now has a base duration of 9 seconds at all gem levels (from 5).
+Now grants 60 additional armour at gem level 1 (from 17), up to 1030 at gem level 20 (from 943)
+Now creates a buff that can take damage equal to 60% of your armour.
+Now causes 80% of damage from hits to be taken from the buff before your life or energy shield.
+Now reflects a portion of the damage taken from the buff as fire damage every second until the buff expires or is depleted.
+Now reflects 100% of damage taken from the buff as fire damage when the buff expires or is depleted at gem level 1, up to 1050% at gem level 20.
+Now has a 4 second cooldown (from 1).
+Shares its cooldown with other guard skills (Steelskin and Immortal Call).
+
+Vaal Reave
+Now has an attack speed multiplier of 250% (rather than 150% more attack speed).
+Now loses stages incrementally after a short period without hitting anything, rather than all at once.
+
+Return to top
+Melee Splash
+Now supports Strikes.
+Now creates a melee splash for each enemy hit, meaning if your Strike attack hits multiple enemies, they can also each hit each other with their overlapping splashes.
+Now deals 50% less damage with the splash at gem level 1, up to 41% less at gem level 20.
+Now gains more melee splash area of effect as it levels, up to 57% at gem level 20.
+Now has a mana multiplier of 140% (from 160%).
+
+Multistrike
+Now grants supported skills 35% more melee attack speed at gem level 1 (from 75% more), up to 44% more at gem level 20 (from 94% more).
+Now causes the first repeat of supported skills to deal 40% more damage at gem level 1, up to 50% more at gem level 20.
+Now causes the second repeat of supported skills to deal 80% more damage at gem level 1, up to 99% more at gem level 20
+
+Return to top
+We've changed the way supports which try to do different things to different skill gems at the same time work, by splitting the different effects up. This results in some extra lines on some support gems, but the functionality will remain the same, and will prevent unintuitive behaviour in the future (such as the case in 3.6.0 where Cast while Channelling prevented Arcane Surge from supporting the channelling spell due to it making both the channelling spell and the non-channelling skills it supported count as 'triggered').
+Fortify Support
+
+Supported skills now have 15% increased Fortify duration at gem level 1, up to 34% at gem level 20 (from 25% at all gem levels).
+Supported skills now deal 20% more melee physical damage at gem level 1 (from 25% increased melee physical damage) up to 34% more at gem level 20 (from 44% increased).
+Supported skills now deal 20% more damage with bleeding and poison caused by melee hits at gem level 1, up to 34% more at gem level 20.
+
+Infused Channelling Support
+Now works correctly with the new Physical gem type.
+No longer implicitly provides a reduction to physical damage taken, and will only provide such a reduction while channelling a skill with a physical gem tag.
+
+Lesser Poison Support
+Now adds 1 to 2 chaos damage at gem level 1 (unchanged), up to 94 to 141 at gem level 20 (from 44 to 66).
+
+Mirage Archer Support
+No longer causes skills it used to vanish at the end of its duration. Those skills will persist until they are finished doing whatever it is they are doing.
+
+Poison Support
+Now causes supported skills to deal no more damage with poison at gem level 1 (unchanged), up to 28% more at gem level 20 (from 19%).
+
+Ruthless Support
+Now causes ruthless blows with supported skills to deal 75% more melee damage at gem level 1 (unchanged), up to 132% more at gem level 20 (from 113%).
+Now causes ruthless blows with supported skills to deal 75% more damage with bleeding at gem level 1 (unchanged), up to 132% more at gem level 20 (from 113%).
+
+Summon Phantasm on Kill Support/Summon Phantasm Support
+Renamed to Summon Phantasm Support.
+
+Return to top
+We've added a lot of new passives to the passive tree in this patch. Rather than list out what each of the dozens of new passives contains, we've listed out the cluster notable names below. We've also changed virtually every weapon cluster to some degree. To examine these changes in detail, please keep an eye out in the community for passive tree tools once we give the passive tree data out.
+Listed below are the new additions and removals:
+
+Added a new keystone near the Witch: Wicked Ward.
+Added a new keystone behind Blood Magic: Mortal Conviction
+Overcharge and the preceeding small passives have been moved from behind Conduit to next to it.
+Decay Ward and the preceeding small passives have been moved from behind Necromantic Aegis to across from it.
+The Inspiration notable and preceeding small passives behind Mind over Matter have been removed.
+Removed "hybrid" weapon passives and notables such as Deadly Dilettante, which grant bonuses to multiple individual weapon types.
+Reduced the amount of increased Energy Shield granted by early Witch passives.
+Changed the Critical Strike Multiplier passives near the Scion to increased Accuracy Rating.
+Added the following new notables and associated small passive skills to the passive skill tree: Ribcage Crusher, Swift Venoms, Gladiator's Perseverance, Brinkmanship, Fleetfoot, Silent Steps, Freedom of Movement, Inexorable, Adamant, Dismembering, Steadfast, Unpredictable Offensive, Charging Offensive, Swift Skewering, Forceful Skewering, Magmatic Strikes, Dazzling Strikes, Disciple of the Slaughter, Disciple of the Unyielding, Longshot, Utmost Swiftness, Utmost Might, Utmost Intellect, Harvester of Foes, Feller of Foes, Pain Forger, Bludgeon Blitz, Blacksmith's Clout, Spinecruncher, Honed Edge, Bladedancer, Farsight, Claws of the Hawk, Backstabbing, Stabbing Thirst, Disintegration, Titanic Impacts, Kinetic Impacts, Aggressive Bastion, Command of the Elements, Discus Thrower, Ophidian Aim, Steelwood Stance, One with the River, Sanctum of Thought and Hunter's Gambit.
+Our main focus during this patch was to ensure that the primary melee ascendancies -- those of the Marauder and Duelist -- had the appropriate tools to keep up in the current metagame.
+Slayer
+
+Headsman: Now grants 10% more damage if you've killed recently (from 20%). No longer increases area of effect by 20% if you've killed recently, instead granting 20% more damage against unique enemies.
+Bane of Legends: No longer grants Onslaught for 20 seconds when you kill a rare or unique enemy, instead granting 20% increased attack speed for 20 seconds when you kill a rare or unique enemy. Now also grants 20% increased movement speed for 20 seconds when you kill an enemy (of any rarity).
+The small passives leading to Headsman and Bane of Legends now grant 10% increased attack damage, rather than 14% increased damage with two handed weapons.
+Overwhelm: Has been completely reworked. Now sets base critical strike chance for attacks with weapons to 8%, grants +10% to critical strike multiplier per nearby enemy up to a maximum of +100%, and causes nearby enemies to have -30% to their critical strike multiplier.
+The small passive leading to Overwhelm now grants 10% increased attack damage and 10% increased critical strike chance (previously granted 14% increased damage with two handed weapons and 5% reduced enemy stun threshold).
+Endless Hunger: Now prevents you from being stunned while leeching.
+Brutal Fervour: No longer grants 100% increased total recovery per second from life leech. Now grants 15% increased attack speed while leeching, 6% reduced damage taken while leeching, and 50% increased attack damage while leeching (from 30%).
+The small passives leading to Endless Hunger and Brutal Fervour now grant 10% increased attack damage, rather than 14% increased damage with two handed weapons.
+Impact: No longer grants melee splash to single-target melee attacks (because they aren't a thing anymore), or 20% increased area of effect. Now grants 50% increased global accuracy rating, +2 to melee weapon and unarmed attack range, and 5% increased area of effect per enemy killed recently, up to 50%.
+The small passive leading to Impact now grants 10% increased attack damage, rather than 14% increased damage with two handed weapons.
+Added a new Slayer notable - Masterful Form: Grants 50% increased endurance charge duration, 50% increased frenzy charge duration and sets your maximum endurance charges equal to your maximum frenzy charges. Inb4 Pacifism Ahn's meme builds!
+The small passive leading to Masterful Form grants 10% increased attack damage, 10% increased endurance charge duration and 10% increased frenzy charge duration.
+
+Gladiator
+The small passives no longer grant 5% increased attack speed with one handed weapons, and instead now grant 4% increased attack speed (regardless of weapon type).
+Added a new Gladiator notable - Arena Challenger: Grants 2% more attack and movement speed per challenger charge, 25% chance to gain a challenger charge when you hit a rare or unique enemy while in blood stance, grants a challenger charge when you kill an enemy while in sand stance, and sets your maximum challenger charge count to 10.
+The small passive leading to Arena Challenger grants 4% increased attack speed and 4% increased movement speed.
+
+Champion
+Inspirational: Now causes banners you create to gain 40% of the stages of your placed banner (from 20%). You and allies affected by your placed banners now regenerate 0.1% of maximum life per second for each stage (from 0.5%).
+First to Strike, Last to Fall: Now causes you to recover 25% of maximum life when you gain Adrenaline.
+Unstoppable Hero: Now grants 30% increased attack damage (rather than melee damage) while you have fortify.
+Master of Metal: Now causes you and nearby allies to deal 6 to 12 added physical damage for each impale on the enemy (from 4 to 8).
+The small passives leading to First to Strike, Last to Fall, Unstoppable Hero, and Fortitude now each grant 10% increased attack damage (previously 14% increased melee damage). They no longer grant increased ailment damage.
+
+Juggernaut
+Unyielding: Now grants 8% increased damage per endurance charge (from 5%) and 6% increased area of effect per endurance charge (from 5%).
+
+Berserker
+Cloaked in Savagery has been removed.
+Pain Reaver has moved and is now a standalone notable. It now grants 2% of attack damage leeched as life (from 1%), 2% of attack damage leeched as mana (from 1%), 25% increased attack speed if you've been hit recently, and 50% increased maximum total recovery per second from life leech if you've taken a savage hit recently. It no longer grants 2% of attack damage leeched as life and mana if you've killed recently.
+War Bringer: No longer causes you to gain 5 rage when you use a warcry. Instead now grants you and nearby allies 10% increased attack speed and 30% increased damage if you've used a warcry recently.
+Crave the Slaughter: Now grants 1 rage on hit with attack, no more that once every 0.3 seconds (rather than on kill or a chance on hitting a rare or unique enemy). Now also grants 1% chance to deal double damage per 4 rage.
+Rite of Ruin: Now causes effects granted for having rage to be tripled (rather than doubled). Also causes you to lose 0.1% of maximum life per second per rage while you are not losing rage.
+Added a new Berserker notable - Flawless Savagery: Grants 80% increased critical strike chance for attacks, adds 20 to 30 physical damage to attacks if you've dealt a critical strike recently, and grants +30% to critical strike multiplier.
+Added a new Berserker notable - Blitz: Grants 2% more attack speed per blitz charge, 10% reduced critical strike chance per blitz charge, causes you to gain a blitz charge on critical strike, and sets your maximum blitz charge count to 20. Requires Flawless Savagery.
+The small passives leading to Flawless Savagery and Blitz each grant 12% increased attack physical damage and 15% increased critical strike chance.
+
+Chieftain
+Tawhoa, Forest's Strength: Has been completely reworked. Now grants 35% chance to gain an endurance charge when you use a fire skill, 5% increased physical damage per endurance charge, and 5% increased fire damage per endurance charge.
+Ramako, Sun's Light: Has been completely reworked. Now grants 25% chance to Ignite, 15% more burning damage, and causes damage to penetrate 15% fire resistance. No longer has a prerequisite.
+Ngamahu, Flame's Advance: Has moved. Now grants 100% of physical damage as extra fire damage every 10 seconds for 4 seconds (from 70% of physical damage).
+Hinekora, Death's Fury: Has moved. No longer causes 1% of damage dealt by your totems to be leeched to you as life. Now grants 20% chance to cover rare or unique enemies in ash for 10 seconds on hit (from 10% chance). Now requires Ngamahu, Flame's Advance or Ramako, Sun's Light (previously required Ngamahu, Flame's Advance).
+Tukohama, War's Herald: Has been completely reworked. Now causes 1% of damage dealt by your totems to be leeched to you as life, grants 50% increased effect of buffs granted by your active ancestor totems, gives your ancestor totems 100% increased activation range, and grants 25% increased area of effect while you have a totem. No longer requires Arohongui, Moon's Presence.
+Arohongui, Moon's Presence: Now makes your totems immune to fire damage.
+Added a new Chieftain notable - Valako, Storm's Embrace: Grants 0.5% of maximum life regenerated per second per endurance charge, 3% more damage for each endurance charge lost recently, up to 15%, and +1 to maximum endurance charges. Requires Tawhoa, Forest's Strength.
+Added a new Chieftain notable - Tasalio, Cleansing Water: Grants +100% to fire resistance, 2% of maximum life regenerated per second, 10% of physical damage from hits taken as fire damage, 50% increased life recovery rate if you've taken fire damage from an enemy hit recently, and causes you to be unaffected by ignite.
+
+Occultist
+Wicked Ward has been removed.
+Vile Bastion: No longer requires any Ascendancy notables. It now grants 1% energy shield regeneration per second for each enemy you or your minions have killed recently, up to 10% (from a maximum of 30%). No longer grants +150 to maximum energy shield.
+Each of the small passives on the Occultist Ascendancy tree now grant 6% increased energy shield (from 8%).
+
+Elementalist
+Beacon of Ruin: No longer causes elemental ailments from your skills to spread to other nearby enemies. Shocks from your hits now always increase damage taken by 15% (from 20%).
+
+Guardian
+Each of the small passives on the Guardian Ascendancy tree now grant 5% increased energy shield (from 6%).
+
+Trickster
+Ghost Dance: Now causes you to gain a Ghost Shroud every 2 seconds (from 1).
+Escape Artist: Now grants 10% chance to dodge hits from Spell Damage while you have Energy Shield (from 20%), and 6% increased Attack and Cast Speed per Ghost Shroud (from 12%).
+Each of the small passives on the Trickster Ascendancy tree now grant 5% increased energy shield (from 8%) and 14% increased evasion rating (from 8%).
+
+Deadeye
+Fast and Deadly: Now grants 50% more Accuracy Rating (previously doubled Accuracy Rating).
+
+Ascendant
+Ascendant's Berserker now grants rage on hit, with a maximum rate of one rage every 0.3 seconds acquired this way. It also grants 15% more damage (from 10%).
+Ascendant's Chieftain now has 20% chance to apply Covered in Ash (from 10%) and 40% increased Fire damage.
+Ascendant's Champion now has 20% chance to impale with attacks.
+Ascendant's Gladiator no longer grants chance to cause bleeding, and instead has 15% chance to Block (does not require another source of block) and 10% chance to Blind on hit with attacks (does not require that the enemy be bleeding). It also deals 25% more damage with bleeding (from 15%).
+
+Return to top
+Many low-level melee weapon basetypes have had their base attack speed raised and their damage lowered to compensate.
+The following staves can no longer roll spell-based mods such as added damage for spells or increased spell damage. Their base attack speeds have been slightly increased, and their damage decreased to compensate. These changes affect all existing versions of these basetypes, though they will not affect the mods those items currently have. Also some level requirements have changed I guess? Anyway, here you go: Iron Staff, Coiled Staff, Vile Staff, Military Staff, Serpentine Staff, Foul Staff, Ezomyte Staff, Maelström Staff and Judgement Staff.
+The above staves will be swapped to a new "War Staff" weapon class in the near future to help differentiate them.
+The following daggers can no longer roll spell-based mods such as added damage for spells or increased spell damage. Their base attack speeds have been slightly increased, and their damage decreased to compensate. This affects all existing versions of these basetypes: Skinning Knife, Sai, Poignard, Gutting Knife, Trisula, Ambusher, Flaying Knife, Prong Dagger, Stiletto.
+The following daggers will be swapped to a new "Rune Dagger" weapon class in the near future, to differentiate them from the attack-only daggers above. They will continue to be able to roll both attack and caster modifiers: Glass Shank, Boot Knife, Copper Kris, Skean, Imp Dagger, Butcher Knife, Boot Blade, Golden Kris, Royal Skean, Fiend Dagger, Slaughter Knife, Ezomyte Dagger, Platinum Kris, Imperial Skean and Demon Dagger.
+Orb of Horizons can now drop from monsters and other currency sources (such as Emperor's Luck).
+Adjusted the droprates of certain items for which there were many... hunters...
+The Dense Fossil can no longer craft increased Armour, Evasion or Energy Shield suffix modifiers and now has new mods it can craft on each slot.
+The Dense Fossil modifier "15% increased Energy Shield from Body Armour" was incorrectly acting multiplicatively with other sources of increased Energy Shield. This has been fixed, and affects all existing items with this modifier. To partially (but intentionally not entirely) compensate for this change, it now grants 20-30% increased Energy Shield from Body Armour. Existing items with this modifier can be updated to the new values with a Divine Orb.
+The Divine Vessel is now a 1x1 item, rather than 1x2.
+Perandus scarabs can now cause Cadiro Perandus to appear. Rusted scarabs have a 33% chance for a Cadiro appearance, Polished have a 66% chance, and Gilded guarantee that he appears.
+The values on Life, Mana and Energy Shield modifiers on Abyssal Jewels have been reduced, and the top tiers made rarer relative to lower tiers. The top roll for these modifiers is now 40 (from 50). Divining existing jewels will update them to these new values, so don't do that unless you're hoping to create one of those 'viral videos' that are all the rage these days.
+Added damage of all types on Abyssal Jewels has also been lowered, by about 30% at the top end, scaling down to lower tiers. Top tiers of these have also become rarer. This is true for all top-tier added damage modifiers on Abyssal Jewels, including caster and summoner ones.
+The top two tiers of added elemental damage for melee weapons have had their damage increased by about 10% for tier 2 and 40% for tier 1.
+All added damage modifiers on two-handed weapons are now 160% of the values of their one-handed counterparts. This takes the new higher values at the top end into account -- even they are 160% of their one-hand versions.
+Added new top-tier modifiers for Added Fire Damage, Added Cold Damage, and Added Lightning Damage. These are available on items with an ilevel of 82 or greater.
+The highest tier added elemental damage modifiers for weapons are now rarer. It will be approximately as difficult to get 3 tier-1 elemental damage rolls as the three tier-1 physical damage rolls.
+Weapon-specific increased physical damage modifiers on Jewels now apply to all damage types, not just physical. This affects all existing jewels with these modifiers. The values have not changed.
+Reduced the amount of Energy Shield granted by Synthesised Implicits on Body Armours, Shields, Helmets, Gloves and Boots. This won't affect you unless you decide to use a Blessed Orb, in which case it definitely will affect you.
+The hybrid increased physical damage and accuracy modifiers now grant more accuracy. Existing items with these modifiers can be updated with a Divine Orb.
+The pure accuracy modifiers now grant more accuracy than previously, and there are fewer tiers. Existing items with these modifiers can be updated with a Divine Orb.
+The Immortal Call enchantment which previously granted a chance to not consume endurance charges now grants increased Immortal Call duration per endurance charge consumed. This affects items that had the previous enchantment.
+
+Return to top
+The following items no longer drop outside of the Legion challenge leagues. Versions dropped in Legion will have new modifiers and balance which we won't be spoiling here, barring changes that affect existing versions, which will be outlined below. The items are: Rathpith Globe, Pledge of Hands, Rebuke of the Vaal, Kaom's Primacy, Lavianga's Wisdom, Marohi Erqi, Asenath's Gentle Touch, Darkscorn, Al Dhih, Voll's Protector, The Sorrow of the Divine, Divinarius, Honourhome, Lioneye's Paws, Maligaro's Virtuosity.
+Overwhelming Odds: No longer grants increased Area of Effect for Cleave based on the number of nearby enemies, and now grants +1 to Cleave's radius for each nearby enemy, up to +10. This jewel is now limited to 1.
+Mon'tregul's Grasp: Now clearly states how damage dealt by exploding zombies is calculated. Note that this does not change the functionality.
+Hyrri's Truth: Now causes Precision to have 50% less Mana Reservation. Affects all versions of the item.
+Death's Hand: Now has added physical damage of (35-46) to (85-128). Existing versions can be updated using a Divine Orb. Now grants Unholy Might for 4 seconds on critical strike (up from 2). Affects all versions of the item.
+Inpulsa's Broken Heart: Now has 15-25% increased Shock Effect. Existing versions can be updated using a Divine Orb.
+Prismatic Eclipse: Now has (60-70) to (71-80) added physical damage. Existing versions can be updated using a Divine Orb.
+Rigwald's Charge: Now has 300 to 350 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+The Peregrine: Now has 500 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Infractem: Now has 350 to 400 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Crown of Eyes: Now has 300 to 350 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Wideswing: Now has 120 to 150 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Dreamfeather: Now has 280 to 300 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Izaro's Dilemma: Now has 300 to 400 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+The Wasp Nest: Now has 330 to 350 Accuracy Rating. Existing versions can be updated using a Divine Orb.
+Malachai's Simula: Newly dropped versions will also have Mortal Conviction.
+Tukohama's Fortress: Newly dropped versions will also have Mortal Conviction.
+Apep's Rage: Now adds (90-130) to (140-190) chaos damage to spells. Existing versions can be updated with a Divine Orb. New versions also cause Poisons you inflict to deal damage 20% faster.
+Brightbeak: Now has 45% increased Attack Speed, to account for basetype changes. Existing versions can be updated using a Divine Orb. You know, in case it uses your mana too quickly...?
+Dreadbeak: Now has (83-91) to (123-130) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+Hegemony's Era: Now has (165-175) to (185-205) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+Disintegrator: Now has (250-280) to (315-355) added physical damage, to account for basetype changes. Existing versions can be updated using a Divine Orb.
+Pillar of the Caged God is now on the Iron Staff basetype.
+
+Changes to Legion-Themed Uniques that Affect Existing Items:
+Pledge of Hands: Spell Echo has been replaced with Greater Spell Echo. Affects all versions of the item.
+Rebuke of the Vaal: Now has (49-98) to (101-140) added Physical Damage, (49-98) to (101-140) added Fire Damage, (49-98) to (101-140) added Cold Damage, 1 to (210-250) added Lightning Damage, and (49-98) to (101-140) added Chaos Damage. Existing versions can be updated using a Divine Orb.
+Lavianga's Wisdom: Now has 160 to 200% increased Physical Damage, +70 to maximum Life, +70 to maximum Mana, 15 to 25% increased Area of Effect, and 10 to 20% increased Area Damage. Existing versions can be updated using a Divine Orb.
+Marohi Erqi: Fixed a bug which prevented a mod from displaying, though it was always there. The mod grants -100 Accuracy Rating. Note that this is not a functional change and that reduced accuracy has always been there. Now has 230 to 260% increased Physical Damage, 30 to 40 added Physical Damage, and now supports socketed gems with level 15 Pulverise Support. Existing versions can be updated using a Divine Orb, except for the Pulverise Support, which applies to all versions of the item.
+Asenath's Gentle Touch: Now has +60 to 80 to maximum Life and +60 to 80 maximum Mana. Existing versions can be updated using a Divine Orb.
+Darkscorn: Now has 20% increased Attack Speed and (15-20) to (25-30) added Physical Damage. Existing versions can be updated using a Divine Orb.
+Voll's Protector: Now has 100 to 150% increased Armour and Energy Shield. Existing versions can be updated using a Divine Orb.
+The Sorrow of the Divine: Now causes Life Recovery from Flasks to also apply to Energy Shield during Flask Effect. Affects all versions of the item.
+Divinarius: Now grants +30 Life on kill and +10 mana on kill. Existing versions can be updated using a Divine Orb.
+Honourhome: Now has 100 to 150% increased Armour and Energy Shield.
+
+Return to top
+Over Path of Exile's life, we have slowly shifted more power to earlier in the game. For example, you now get a strong support gem on the starting beach, rather than getting your first in Merveil's Cavern. As a result, the difficulty of the early acts slowly became easier and easier. In this patch, we have made targeted efforts to bring some of the difficulty back to the first three acts.
+Acts 1, 2 and 3 have seen significant improvements to monster and boss encounters. We won't ruin the fun of discovering them, so be careful out there!
+You'll no longer hear a crying woman in Act 7 Crossroads tempting you towards nonexistent story glyphs.
+
+Return to top
+Magic monsters now have 50% more life at level 1, up to 75% more life at level 68 and above.
+Rare monsters now have 33% more life at level 1, up to 100% more life at level 68 and above. They now grant 54% more experience.
+Tormented Spirits are now more likely to appear near a rare or unique monster than not.
+Monsters which can block attacks and spells now say so beneath their nameplate. Such monsters do not block all damage when they block.
+Rogue Exiles no longer sound identical to their player Exile counterparts.
+
+Return to top
+Swapped Navali's Seek Prophecy and View Your Prophecies talk options to prevent misclicking while selling.
+
+Return to top
+It now requires 12 separate Incursions to enter the Temple of Atzoatl in the present (up from 11). This gives you an extra attempt to upgrade or change a room before you enter the Temple with Alva.
+
+Return to top
+Betrayal Fortification encounters are now prioritised over Shrines during level creation, meaning you should more reliably get the Betrayal encounters you are expecting.
+You'll now encounter a new monster type in some Fortification encounters.
+
+Return to top
+The Maelström Cell unique strongbox now also drops Divination Cards that give Shaper or Elder items as well as cards of a certain stack size.
+
+Return to top
+Improved the way Delve map layouts are generated, to allow for longer delves when necessary.
+The Ancient Wraith and Ancient Suffering monsters can now be desecrated while in the appropriate Delve area.
+
+Return to top
+Items that drop exclusively from Prophecy-generated monsters can now drop from all Prophecy-generated monsters, rather than a small subset.
+
+Return to top
+The Atlas of Worlds has been shuffled. Most maps have changed tier and location within the Atlas.
+You can now unlock a special fifth slot in the Map Device.
+Added 3 new Tormented Spirits, found via Sextants.
+Added 2 new Shrines, found via Sextants.
+You no longer have to pay Vaal orbs equal to the cost in Chaos orbs to apply Zana's crafting modifiers to corrupted maps.
+Map bosses at lower map tiers have slightly more life, tapering to no difference at map tier 15 and above.
+Shaper's Strongholds now always contain additional monsters and Anomalies, as well as a bonus effect at random.
+Shaper-influenced maps now always contain additional monsters.
+Monster packs in Shaper-influenced maps with Anomalies now have a 20% chance to spawn with an Anomaly (down from 50%). These Anomalies now spawn a pack of monsters on death, which grant items and experience when slain.
+Agents of the Void from Shaper-influenced maps now spawn monsters on death, which grant items and experience when slain.
+White- and yellow-tier Shaper-influenced maps can no longer spawn Shaper clones which attack you. Red-tier Shaper-influenced maps now have a 25% chance for the Shaper clone encounters, in addition to other Shaper-influence mechanics.
+Elder-influenced maps now always contain additional monsters.
+White- and yellow-tier Elder-influenced maps can no longer spawn Elder slam tentacles. Red-tier Elder-influenced maps now have a 25% chance for the Elder slam tentacles, in addition to other Elder-influence mechanics.
+The entirety of the Coward's Trial map has been redone. If you're lucky enough to get one, make sure you use it!
+The boss fight of the Graveyard map has been completely reworked.
+Improved the Belfry and Lava Lake fights. Extra monsters are now spawned during the fight which grant items and experience when slain. Both of these fights should feel significantly more rewarding for the time invested.
+The Barrows map boss fight has been improved. The Beast of the Pits is now extra vulnerable to damage after colliding with a wall. It now has more life, and cannot be stunned, knocked back or interrupted while charging.
+The boss fight in the Gardens map has been completely reworked. Monsters spawned during phase transitions will grant items and experience when slain.
+During the Sunken City boss fight, you'll now encounter monsters, which grant items and experience when slain, between phase transitions.
+Monsters spawned during the Basilica boss fight phase transitions will also grant items and experience when slain.
+Monsters spawned during the Terrace boss fight phase transitions got the same treatment. They also take reduced damage for a brief period after spawning.
+Improved the layout of the Arena map. Monster spawner behaviour has also been adjusted to take less time to activate all the statues and hounds.
+Enlarged the area around the Summit map spawn location where monsters shouldn't be able to spawn.
+
+Return to top
+Zana's map device options are now unlocked as you progress through the Atlas quest chain. These are the League Mods available during 3.7.0.
+Fortune Favours the Brave (costs 3 Chaos Orbs): One of these options will be applied at random, including those you have not yet unlocked.
+Alternate of Same Tier (costs 1 Chaos Orb): Requires a Rare map. Opens a random Rare map of the same tier, excluding the map you placed in the device.
+Shaped Tier 1-5 (costs 2 Chaos Orbs): Requires a Rare map. Opens a version of your map at 5 tiers higher, randomly rolled as a Rare.
+Shaped Tier 1-10 (costs 6 Chaos Orbs): Requires a Rare map. Opens a version of your map at 5 tiers higher, randomly rolled as a Rare, with a chance to be Corrupted.
+Elder Tier 1-15 (costs 15 Chaos Orbs): Requires a Rare map. Opens a version of your map at Tier 16, randomly rolled as a Rare, with a chance to be Corrupted.
+Abyss (costs 2 Chaos Orbs): Area contains an additional Abyss.
+Anarchy (costs 2 Chaos Orbs): Area is inhabited by 3 additional Rogue Exiles.
+Domination (costs 3 Chaos Orbs): Area contains 3 extra Shrines.
+Bloodlines (costs 3 Chaos Orbs): Magic monster packs each have a Bloodline mod. Area contans 3 additional magic monster packs.
+Ambush (costs 4 Chaos Orbs): Area contains 4 extra Strongboxes.
+Perandus (costs 4 Chaos Orbs): Area has a 33% chance to contain Cadiro Perandus. Area contains 3 additional Perandus chests.
+Beyond (costs 5 Chaos Orbs): Slaying Enemies close together has a 15% chance to attract monsters from Beyond.
+
+Return to top
+You can now disable the Help Panel popups in the Help Panel. Please note that, once disabled, you cannot reenable them for that character (but you can still use the Help Panel as normal).
+You'll now also experience fewer Help Panel popups in general.
+You can now hover over Atlas Objectives on your Atlas to see exactly what they mean.
+The character panel now shows how likely your attacks are to hit monsters of varying evasiveness.
+
+Return to top
+Added a new set of quest rewards for completing Breaking Some Eggs in Act 1.
+Added Perforate as a reward for Duelist for completing Enemy at the Gates.
+Perforate becomes available from Nessa for the Marauder, Ranger and Scion after completing Enemy at the Gates (ie. immediately!).
+Added Blood and Sand as a reward for Duelist for completing Breaking Some Eggs.
+Blood and Sand becomes available from Nessa for the Marauder, Ranger and Scion after completing Breaking Some Eggs.
+Added Precision as a reward for Duelist and Ranger for completing The Caged Brute.
+Precision becomes available from Nessa for Templar, Marauder and Shadow after completing The Caged Brute.
+Added Chain Hook as a reward for Marauder for completing the Siren's Cadence.
+Chain Hook becomes available from Nessa for the Duelist and Scion after completing the Siren's Cadence.
+Added Flesh and Stone as a reward for the Duelist for completing Intruders in Black.
+Flesh and Stone becomes available from Yeena for the Marauder and Scion after completing Intruders in Black.
+Added Shockwave Support as a reward for the Templar and Marauder for completing Sharp and Cruel.
+Shockwave Support becomes available from Yeena for Duelist and Scion after completing Sharp and Cruel.
+Added Close Combat Support as a reward for the Marauder, Duelist and Ranger for completing Sharp and Cruel.
+Close Combat Support becomes available from Yeena for Templar, Shadow and Scion after completing Sharp and Cruel.
+Added Pride as a reward for the Marauder and Duelist for completing Lost in Love.
+Pride becomes available from Clarissa for the Templar, Ranger, Shadow, Scion and Witch after completing Lost in Love.
+Added Bladestorm as a reward for the Duelist for completing Sever the Right Hand.
+Bladestorm becomes available from Clarissa for the Marauder and Scion after completing Sever the Right Hand.
+Added Pulverise Support as a reward for the Templar, Marauder and Duelist for completing a Fixture of Fate.
+Pulverise Support becomes available from Clarissa for the Ranger and Scion after completing a Fixture of Fate.
+Added Impale Support as a reward for the Duelist and Ranger for completing a Fixture of Fate.
+Impale Support becomes available from Clarissa for the Marauder, Shadow and Scion after completing a Fixture of Fate.
+Added Berserk as a reward for the Marauder for completing Breaking the Seal.
+Berserk becomes available from Petarus and Vanja for the Duelist and Scion after completing Breaking the Seal.
+
+Return to top
+Fireball now deals 30% less damage against players (previously dealt 5% more).
+Spectral spiders summoned by Arakaali's Fang now deal 70% less damage against players (previously no penalty).
+
+Return to top
+Fixed a bug where Physical Damage would not bypass Energy Shield if that Energy Shield was protecting Mana.
+Fixed a bug where you could become trapped after defeating the Terrace map boss.
+Fixed a bug where you could prevent Tukohama from spawning one of his beam totems until the end of the fight, making it unkillable.
+Fixed a bug where the crafted mod "Trigger a Socketed Spell when you use a Skill" wasn't triggering if the skill you use created a trap, mine or totem.
+Fixed a bug where, when viewed with the detailed mod descriptions, some mods were given a worse tier than others in the same family because the mods provided their effect in the form of a negative value (such as reduced attribute requirements).
+Fixed a bug where the Frozen Trail unique jewel would cause Frostbolt projectiles to continue even after being detonated by Vortex.
+Fixed a bug where maps that were dropped or generated as Magic or Rare and were on a Shaped or Elder map basetype did not take into account the new map tier when rolling mods. This also affected maps created by Zana for her missions. Any rerolling of mods did take the correct map tier into account.
+Fixed a bug where, when encountering Zana in a map, she would use the quest state of the first person to talk to her in a party, rather than the Map's owner, when generating her pool of maps to pick from.
+Fixed a bug where the Summon Phantasm Support would cause non-minion skills to be counted as minion skills for cases such as Null's Inclination's "Trigger Socketed Minion Skills on Kill" mod.
+Fixed a bug where Craiceann's Tectonic Slam skill got gigantic.
+Fixed a bug where Essence Drain, Soulrend, Bane and Contagion were all bypassing PvP scaling when triggered from a trap or mine.
+Fixed a bug where the Adrenaline buff from War Banner would end early if you were playing a Juggernaut and your Endurance Charges expired.
+Fixed a bug where channelled skills would not update their animation speed if the character's attack or cast speed changed while channelling.
+Fixed a bug where support gems with level requirement restrictions (such as Cast when Damage Taken) would change the restriction when socketed in an item that granted additional levels to the gem.
+Fixed a longstanding bug where Ethereal Knives projectiles would chain long past the projectile's lifetime.
+Fixed a bug where map bosses had lost the additional chance to drop a map adjacent to the one you were currently in.
+Fixed a bug where the "increased effect of non-damaging ailments on enemies" veiled modifier could appear on rings when dropped, but not when crafted. It now correctly appears on amulets rather than rings when dropped.
+Fixed a Delve exploit.
+
+We really hope you enjoy Path of Exile: Legion. Thanks for your support! Shock Nova
+The ring now deals 50% less damage (from 80%).
+The ring is now closer to the centre of the nova.
+Glacial Hammer
+Now has 155% damage effectiveness at gem level 1 (from 140%), up to 200% effectiveness at gem level 20 (from 182%).
+Now gets +2 to melee range at gem level 1 (from 0), up to +4 at gem level 20 (from 2).
+Updated: Every third successive strike now freezes enemies as if it were dealing 200% more damage at gem level 1, up to 390% at gem level 20. (previously stated it was 500% at all levels)
+Share on TwitterShare on FacebookShare on PinterestShare via email
+Postlight Mercury	This article is generated by Postlight Mercury
