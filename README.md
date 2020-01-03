@@ -5,7 +5,7 @@ The final version of the Python notebooks are called "PN_AE_Sample" and "LotR_VA
 
 The data files used for training the models can be found in the folder called "Data".
 
-The following packages are required to run the notebooks:
+The following extra packages are required to run the notebooks:
  - Pytorch
  - NLTK
  - Torchtext
